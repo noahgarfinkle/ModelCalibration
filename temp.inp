@@ -1,6 +1,6 @@
 ; Filename: networks/Net3.inp
-; WNTR: 0.2.1
-; Created: 2020-08-29 18:00:56
+; WNTR: 0.1.6
+; Created: 2020-09-10 19:50:26
 [TITLE]
 EPANET Example Network 3, updated to include longer duration
 Example showing how the percent of Lake water in a dual-source
@@ -28,7 +28,7 @@ system changes over time.
  117                             13.6          117.71 1                          ;
  119                                2          176.13 1                          ;
  120                                0               0 1                          ;
- 121                     16.404199475           41.63 1                          ;
+ 121                               -2           41.63 1                          ;
  123                               11               1 2                          ;
  125                               11            45.6 1                          ;
  127                               56           17.66 1                          ;
@@ -108,7 +108,7 @@ system changes over time.
 
 [TANKS]
 ;ID                              Elevation           Init Level            Min Level            Max Level             Diameter           Min Volume Volume Curve        
- 1                              131.9            13.1             0.1            32.1            93.5               0                        ;
+ 1                              131.9            13.1             0.1            32.1              85               0                        ;
  2                              116.5            23.5             6.5            40.3              50               0                        ;
  3                                129              29               4            35.5             164               0                        ;
 
@@ -133,7 +133,7 @@ system changes over time.
  119                  115                  117                             2180              12             130               0                 Open   ;
  120                  119                  120                              730              12             130               0                 Open   ;
  121                  120                  117                             1870              12             130               0                 Open   ;
- 122                  121                  120                             2050               4             130               0                 Open   ;
+ 122                  121                  120                             2050               8             130               0                 Open   ;
  123                  121                  119                             2000              30             141               0                 Open   ;
  125                  123                  121                             1500              30             141               0                 Open   ;
  129                  121                  125                              930              24             130               0                 Open   ;
@@ -480,8 +480,11 @@ Lake                8.000000000         27.530000000
  25.00            31.10            "RIVER"
 
 [BACKDROP]
-DIMENSIONS    6.16    -1.55    46.70    32.61
-UNITS    None
-OFFSET    0.00    0.00
+Graphics options:
+  dimensions          : ['6.16', '-1.55', '46.70', '32.61']
+  units               : None                
+  offset              : ['0.00', '0.00']    
+  image_filename      : None                
+  map_filename        : None                
 
 [END]
