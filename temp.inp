@@ -1,6 +1,11 @@
 ; Filename: networks/Net3.inp
+<<<<<<< HEAD
 ; WNTR: 0.2.1
 ; Created: 2020-09-22 13:18:01
+=======
+; WNTR: 0.1.6
+; Created: 2020-09-10 19:50:26
+>>>>>>> 83d95efceb51146234b280d6bec1010ccd60a1ac
 [TITLE]
 EPANET Example Network 3, updated to include longer duration
 Example showing how the percent of Lake water in a dual-source
@@ -480,8 +485,11 @@ Lake                8.000000000         27.530000000
  25.00            31.10            "RIVER"
 
 [BACKDROP]
-DIMENSIONS    6.16    -1.55    46.70    32.61
-UNITS    None
-OFFSET    0.00    0.00
+Graphics options:
+  dimensions          : ['6.16', '-1.55', '46.70', '32.61']
+  units               : None                
+  offset              : ['0.00', '0.00']    
+  image_filename      : None                
+  map_filename        : None                
 
 [END]
