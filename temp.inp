@@ -1,6 +1,6 @@
 ; Filename: networks/Net3.inp
 ; WNTR: 0.2.1
-; Created: 2020-09-24 08:34:40
+; Created: 2020-09-24 08:40:08
 [TITLE]
 EPANET Example Network 3, updated to include longer duration
 Example showing how the percent of Lake water in a dual-source
@@ -114,7 +114,7 @@ system changes over time.
 
 [PIPES]
 ;ID                   Node1                Node2                              Length             Diameter            Roughness           Minor Loss               Status
- 20                   3                    20                                99              99             199               0                 Open   ;
+ 20                   3                    20                                99              99    205.24870985               0                 Open   ;
  40                   1                    40                                99              99             199               0                 Open   ;
  50                   2                    50                                99              99             199               0                 Open   ;
  60                   River                60                              1231              24             140               0                 Open   ;
@@ -135,7 +135,7 @@ system changes over time.
  121                  120                  117                             1870              12             130               0                 Open   ;
  122                  121                  120                             2050               8             130               0                 Open   ;
  123                  121                  119                             2000              30             141               0                 Open   ;
- 125                  123                  121                             1500              30             141               0                 Open   ;
+ 125                  123                  121                             1500              30    175.68405507               0                 Open   ;
  129                  121                  125                              930              24             130               0                 Open   ;
  131                  125                  127                             3240              24             130               0                 Open   ;
  133                  20                   127                              785              20             130               0                 Open   ;
@@ -178,7 +178,7 @@ system changes over time.
  211                  169                  269                              646              12             130               0                 Open   ;
  213                  191                  187                             2560              12             130               0                 Open   ;
  215                  267                  189                             1230              12             130               0                 Open   ;
- 217                  191                  193                              520              12    107.00765922               0                 Open   ;
+ 217                  191                  193                              520              12             130               0                 Open   ;
  219                  193                  195                              360              12             130               0                 Open   ;
  221                  161                  195                             2300               8             130               0                 Open   ;
  223                  197                  191                             1150              12             130               0                 Open   ;
@@ -189,7 +189,7 @@ system changes over time.
  235                  199                  273                              725              12             130               0                 Open   ;
  237                  205                  207                             1200              12             130               0                 Open   ;
  238                  207                  206                              450              12             130               0                 Open   ;
- 239                  275                  207                             1430              12             130               0                 Open   ;
+ 239                  275                  207                             1430              12    134.24200216               0                 Open   ;
  240                  206                  208                              510              12             130               0                 Open   ;
  241                  208                  209                              885              12             130               0                 Open   ;
  243                  209                  211                             1210              16             130               0                 Open   ;
@@ -199,7 +199,7 @@ system changes over time.
  251                  217                  219                             2050              14             130               0                 Open   ;
  257                  217                  225                             1560              12             130               0                 Open   ;
  261                  213                  229                             2200               8             130               0                 Open   ;
- 263                  229                  231                             1960              12             130               0                 Open   ;
+ 263                  229                  231                             1960              12    124.03498788               0                 Open   ;
  269                  211                  237                             2080              12             130               0                 Open   ;
  271                  237                  229                              790               8             130               0                 Open   ;
  273                  237                  239                              510              12             130               0                 Open   ;
@@ -213,7 +213,7 @@ system changes over time.
  291                  255                  253                             1100              10             130               0                 Open   ;
  293                  255                  251                             1100               8             130               0                 Open   ;
  295                  249                  251                             1450              12             130               0                 Open   ;
- 297                  120                  257                              645               8    90.808443673               0                 Open   ;
+ 297                  120                  257                              645               8             130               0                 Open   ;
  299                  257                  259                              350               8             130               0                 Open   ;
  301                  259                  263                             1400               8             130               0                 Open   ;
  303                  257                  261                             1400               8             130               0                 Open   ;
