@@ -1,6 +1,6 @@
 ; Filename: networks/Net3.inp
 ; WNTR: 0.2.1
-; Created: 2020-09-23 20:40:20
+; Created: 2020-09-23 21:24:41
 [TITLE]
 EPANET Example Network 3, updated to include longer duration
 Example showing how the percent of Lake water in a dual-source
@@ -114,8 +114,8 @@ system changes over time.
 
 [PIPES]
 ;ID                   Node1                Node2                              Length             Diameter            Roughness           Minor Loss               Status
- 20                   3                    20                                99    157.48031496    104.11273713               0                 Open   ;
- 40                   1                    40                                99              99    187.50692711               0                 Open   ;
+ 20                   3                    20                                99    157.48031496    217.59762709               0                 Open   ;
+ 40                   1                    40                                99              99      188.821154               0                 Open   ;
  50                   2                    50                                99              99             199               0                 Open   ;
  60                   River                60                              1231              24             140               0                 Open   ;
  101                  10                   101                            14200              18             110               0                 Open   ;
@@ -230,7 +230,7 @@ system changes over time.
  325                  269                  271                             1290               8             130               0                 Open   ;
  329                  61                   123                            45500              30             140               0                 Open   ;
  330                  60                   601                                1              30             140               0               Closed   ;
- 333                  601                  61                                 1              30    150.51968149               0                 Open   ;
+ 333                  601                  61                                 1              30    107.25545699               0                 Open   ;
 
 [PUMPS]
 ;ID                   Node1                Node2                Properties          
