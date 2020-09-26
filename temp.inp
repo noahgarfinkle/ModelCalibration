@@ -1,6 +1,6 @@
 ; Filename: networks/Net3.inp
 ; WNTR: 0.2.1
-; Created: 2020-09-26 13:49:52
+; Created: 2020-09-26 13:57:29
 [TITLE]
 EPANET Example Network 3, updated to include longer duration
 Example showing how the percent of Lake water in a dual-source
