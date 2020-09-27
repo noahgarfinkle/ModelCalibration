@@ -1,6 +1,6 @@
 ; Filename: networks/Net3.inp
 ; WNTR: 0.2.1
-; Created: 2020-09-26 23:03:41
+; Created: 2020-09-26 23:12:14
 [TITLE]
 EPANET Example Network 3, updated to include longer duration
 Example showing how the percent of Lake water in a dual-source
@@ -152,7 +152,7 @@ system changes over time.
  163                  151                  153                             1170              12             130               0                 Open   ;
  169                  125                  153                             4560               8             130               0                 Open   ;
  171                  119                  151                             3460              12             130               0                 Open   ;
- 173                  119                  157                             2080              30    154.89751758               0                 Open   ;
+ 173                  119                  157                             2080              30    183.60918359               0                 Open   ;
  175                  157                  159                             2910              30             141               0                 Open   ;
  177                  159                  161                             2000              30             141               0                 Open   ;
  179                  161                  163                              430              30             141               0                 Open   ;
@@ -171,7 +171,7 @@ system changes over time.
  201                  40                   179                             1190              12             130               0                 Open   ;
  202                  185                  184                             99.9               8             130               0                 Open   ;
  203                  183                  185                              510               8             130               0                 Open   ;
- 204                  184                  205                             4530              12    175.19760357               0                 Open   ;
+ 204                  184                  205                             4530              12    118.23134684               0                 Open   ;
  205                  204                  185                             1325              12             130               0                 Open   ;
  207                  189                  183                             1350              12             130               0                 Open   ;
  209                  189                  187                              500               8             130               0                 Open   ;
@@ -182,8 +182,8 @@ system changes over time.
  219                  193                  195                              360              12             130               0                 Open   ;
  221                  161                  195                             2300               8             130               0                 Open   ;
  223                  197                  191                             1150              12             130               0                 Open   ;
- 225                  111                  197                             2790              12    94.113208164               0                 Open   ;
- 229                  173                  199                             4000              24     140.6698214               0                 Open   ;
+ 225                  111                  197                             2790              12    128.18420741               0                 Open   ;
+ 229                  173                  199                             4000              24    90.763406042               0                 Open   ;
  231                  199                  201                              630              24             141               0                 Open   ;
  233                  201                  203                              120              24             130               0                 Open   ;
  235                  199                  273                              725              12             130               0                 Open   ;
