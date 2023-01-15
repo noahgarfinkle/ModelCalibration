@@ -1,4 +1,4 @@
-  Page 1                                    Sat Jan 14 21:20:21 2023
+  Page 1                                    Sat Jan 14 21:29:20 2023
 
   ******************************************************************
   *                           E P A N E T                          *
@@ -7,7 +7,7 @@
   *                         Version 2.2                            *
   ******************************************************************
   
-  Analysis begun Sat Jan 14 21:20:21 2023
+  Analysis begun Sat Jan 14 21:29:20 2023
 
    
   Hydraulic Status:
@@ -15,1652 +15,3827 @@
      0:00:00: Balanced after 5 trials
      0:00:00: Reservoir River is emptying
      0:00:00: Reservoir Lake is closed
-     0:00:00: Tank 1 is filling at 13.10 ft
+     0:00:00: Tank 1 is emptying at 13.10 ft
      0:00:00: Tank 2 is emptying at 23.50 ft
-     0:00:00: Tank 3 is filling at 29.00 ft
+     0:00:00: Tank 3 is emptying at 29.00 ft
    
-     0:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 0:00:00 hrs.
    
-     0:30:00: Balanced after 2 trials
+     0:00:06: Balanced after 1 trials
    
-     0:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 0:00:06 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 0:00:06 hrs.
+   
+     0:00:08: Balanced after 4 trials
+     0:00:08: Tank 1 is closed at 0.10 ft
+     0:00:08: Tank 2 is closed at 6.22 ft
+     0:00:08: Pipe 40 changed from open to temporarily closed
+     0:00:08: Pipe 50 changed from open to temporarily closed
+   
+  WARNING: Negative pressures at 0:00:08 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 0:00:08 hrs.
+   
+     0:00:15: Balanced after 4 trials
+     0:00:15: Tank 3 is closed at 3.51 ft
+     0:00:15: Pipe 20 changed from open to temporarily closed
+   
+  WARNING: Negative pressures at 0:00:15 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 0:00:15 hrs.
+   
+     0:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 0:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 0:15:00 hrs.
+   
+     0:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 0:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 0:30:00 hrs.
+   
+     0:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 0:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 0:45:00 hrs.
    
      1:00:00: Pump 10 changed by timer control
-     1:00:00: Balanced after 7 trials
+     1:00:00: Balanced after 5 trials
      1:00:00: Reservoir Lake is emptying
      1:00:00: Pump 10 changed from closed to open
    
-     1:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 1:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 1:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 1:00:00 hrs.
    
-     1:30:00: Balanced after 2 trials
+     1:15:00: Balanced after 1 trials
    
-     1:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 1:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 1:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 1:15:00 hrs.
    
-     2:00:00: Balanced after 3 trials
-     2:00:00: Tank 2 is filling at 21.50 ft
+     1:30:00: Balanced after 1 trials
    
-     2:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 1:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 1:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 1:30:00 hrs.
    
-     2:30:00: Balanced after 2 trials
+     1:45:00: Balanced after 1 trials
    
-     2:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 1:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 1:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 1:45:00 hrs.
+   
+     2:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 2:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 2:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 2:00:00 hrs.
+   
+     2:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 2:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 2:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 2:15:00 hrs.
+   
+     2:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 2:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 2:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 2:30:00 hrs.
+   
+     2:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 2:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 2:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 2:45:00 hrs.
    
      3:00:00: Balanced after 2 trials
    
-     3:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 3:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 3:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 3:00:00 hrs.
    
-     3:30:00: Balanced after 2 trials
+     3:15:00: Balanced after 1 trials
    
-     3:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 3:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 3:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 3:15:00 hrs.
    
-     4:00:00: Balanced after 3 trials
+     3:30:00: Balanced after 1 trials
    
-     4:12:17: Pump 335 changed by Tank 1 control
-     4:12:17: Pipe 330 changed by Tank 1 control
-     4:12:17: Balanced after 4 trials
-     4:12:17: Pipe 330 changed from closed to open
-     4:12:17: Pump 335 changed from open to closed
+  WARNING: Negative pressures at 3:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 3:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 3:30:00 hrs.
+   
+     3:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 3:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 3:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 3:45:00 hrs.
+   
+     4:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 4:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 4:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 4:00:00 hrs.
    
      4:15:00: Balanced after 1 trials
    
-     4:30:00: Balanced after 2 trials
+  WARNING: Negative pressures at 4:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 4:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 4:15:00 hrs.
    
-     4:45:00: Balanced after 2 trials
+     4:30:00: Balanced after 1 trials
    
-     5:00:00: Balanced after 3 trials
-     5:00:00: Tank 3 is emptying at 34.60 ft
+  WARNING: Negative pressures at 4:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 4:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 4:30:00 hrs.
    
-     5:15:00: Balanced after 2 trials
+     4:45:00: Balanced after 1 trials
    
-     5:30:00: Balanced after 2 trials
+  WARNING: Negative pressures at 4:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 4:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 4:45:00 hrs.
    
-     5:45:00: Balanced after 2 trials
+     5:00:00: Balanced after 2 trials
    
-     6:00:00: Balanced after 3 trials
-     6:00:00: Tank 3 is filling at 34.50 ft
+  WARNING: Negative pressures at 5:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 5:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 5:00:00 hrs.
    
-     6:15:00: Balanced after 2 trials
+     5:15:00: Balanced after 1 trials
    
-     6:30:00: Balanced after 2 trials
+  WARNING: Negative pressures at 5:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 5:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 5:15:00 hrs.
    
-     6:45:00: Balanced after 2 trials
+     5:30:00: Balanced after 1 trials
    
-     7:00:00: Balanced after 3 trials
+  WARNING: Negative pressures at 5:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 5:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 5:30:00 hrs.
+   
+     5:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 5:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 5:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 5:45:00 hrs.
+   
+     6:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 6:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 6:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 6:00:00 hrs.
+   
+     6:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 6:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 6:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 6:15:00 hrs.
+   
+     6:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 6:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 6:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 6:30:00 hrs.
+   
+     6:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 6:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 6:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 6:45:00 hrs.
+   
+     7:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 7:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 7:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 7:00:00 hrs.
    
      7:15:00: Balanced after 1 trials
    
+  WARNING: Negative pressures at 7:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 7:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 7:15:00 hrs.
+   
      7:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 7:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 7:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 7:30:00 hrs.
    
      7:45:00: Balanced after 1 trials
    
+  WARNING: Negative pressures at 7:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 7:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 7:45:00 hrs.
+   
      8:00:00: Balanced after 2 trials
    
-     8:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 8:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 8:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 8:00:00 hrs.
    
-     8:30:00: Balanced after 2 trials
+     8:15:00: Balanced after 1 trials
    
-     8:40:49: Balanced after 4 trials
-     8:40:49: Tank 3 is closed at 35.50 ft
-     8:40:49: Pipe 20 changed from open to temporarily closed
+  WARNING: Negative pressures at 8:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 8:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 8:15:00 hrs.
+   
+     8:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 8:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 8:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 8:30:00 hrs.
    
      8:45:00: Balanced after 1 trials
    
-     9:00:00: Balanced after 5 trials
-     9:00:00: Tank 1 is emptying at 22.47 ft
-     9:00:00: Tank 3 is emptying at 35.50 ft
-     9:00:00: Pipe 20 changed from temporarily closed to open
+  WARNING: Negative pressures at 8:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 8:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 8:45:00 hrs.
    
-     9:15:00: Balanced after 2 trials
+     9:00:00: Balanced after 2 trials
    
-     9:30:00: Balanced after 2 trials
+  WARNING: Negative pressures at 9:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 9:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 9:00:00 hrs.
    
-     9:45:00: Balanced after 2 trials
+     9:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 9:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 9:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 9:15:00 hrs.
+   
+     9:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 9:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 9:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 9:30:00 hrs.
+   
+     9:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 9:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 9:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 9:45:00 hrs.
    
     10:00:00: Balanced after 2 trials
    
-    10:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 10:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 10:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 10:00:00 hrs.
    
-    10:30:00: Balanced after 2 trials
+    10:15:00: Balanced after 1 trials
    
-    10:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 10:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 10:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 10:15:00 hrs.
    
-    11:00:00: Balanced after 3 trials
-    11:00:00: Tank 2 is emptying at 28.39 ft
+    10:30:00: Balanced after 1 trials
    
-    11:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 10:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 10:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 10:30:00 hrs.
    
-    11:30:00: Balanced after 2 trials
+    10:45:00: Balanced after 1 trials
    
-    11:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 10:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 10:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 10:45:00 hrs.
+   
+    11:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 11:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 11:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 11:00:00 hrs.
+   
+    11:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 11:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 11:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 11:15:00 hrs.
+   
+    11:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 11:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 11:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 11:30:00 hrs.
+   
+    11:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 11:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 11:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 11:45:00 hrs.
    
     12:00:00: Balanced after 2 trials
-    12:00:00: Tank 2 is filling at 28.34 ft
    
-    12:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 12:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 12:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 12:00:00 hrs.
    
-    12:30:00: Balanced after 2 trials
+    12:15:00: Balanced after 1 trials
    
-    12:45:00: Balanced after 2 trials
-    12:45:00: Tank 2 is closed at 28.36 ft
+  WARNING: Negative pressures at 12:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 12:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 12:15:00 hrs.
    
-    13:00:00: Balanced after 3 trials
-    13:00:00: Tank 1 is filling at 21.99 ft
-    13:00:00: Tank 2 is filling at 28.36 ft
+    12:30:00: Balanced after 1 trials
    
-    13:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 12:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 12:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 12:30:00 hrs.
    
-    13:30:00: Balanced after 2 trials
+    12:45:00: Balanced after 1 trials
    
-    13:45:00: Balanced after 2 trials
-    13:45:00: Tank 1 is emptying at 22.01 ft
+  WARNING: Negative pressures at 12:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 12:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 12:45:00 hrs.
    
-    14:00:00: Balanced after 3 trials
-    14:00:00: Tank 1 is filling at 22.01 ft
+    13:00:00: Balanced after 2 trials
    
-    14:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 13:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 13:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 13:00:00 hrs.
    
-    14:30:00: Balanced after 2 trials
+    13:15:00: Balanced after 1 trials
    
-    14:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 13:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 13:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 13:15:00 hrs.
+   
+    13:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 13:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 13:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 13:30:00 hrs.
+   
+    13:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 13:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 13:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 13:45:00 hrs.
+   
+    14:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 14:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 14:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 14:00:00 hrs.
+   
+    14:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 14:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 14:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 14:15:00 hrs.
+   
+    14:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 14:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 14:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 14:30:00 hrs.
+   
+    14:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 14:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 14:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 14:45:00 hrs.
    
     15:00:00: Pump 10 changed by timer control
-    15:00:00: Balanced after 5 trials
+    15:00:00: Balanced after 4 trials
     15:00:00: Reservoir Lake is closed
-    15:00:00: Tank 1 is emptying at 22.24 ft
-    15:00:00: Tank 2 is emptying at 28.92 ft
     15:00:00: Pump 10 changed from open to closed
    
-    15:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 15:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 15:00:00 hrs.
    
-    15:30:00: Balanced after 2 trials
+    15:15:00: Balanced after 1 trials
    
-    15:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 15:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 15:15:00 hrs.
    
-    16:00:00: Balanced after 3 trials
+    15:30:00: Balanced after 1 trials
    
-    16:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 15:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 15:30:00 hrs.
    
-    16:30:00: Balanced after 2 trials
+    15:45:00: Balanced after 1 trials
    
-    16:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 15:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 15:45:00 hrs.
+   
+    16:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 16:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 16:00:00 hrs.
+   
+    16:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 16:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 16:15:00 hrs.
+   
+    16:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 16:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 16:30:00 hrs.
+   
+    16:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 16:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 16:45:00 hrs.
    
     17:00:00: Balanced after 2 trials
    
-    17:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 17:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 17:00:00 hrs.
    
-    17:30:00: Balanced after 2 trials
+    17:15:00: Balanced after 1 trials
    
-    17:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 17:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 17:15:00 hrs.
+   
+    17:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 17:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 17:30:00 hrs.
+   
+    17:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 17:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 17:45:00 hrs.
    
     18:00:00: Balanced after 2 trials
-    18:00:00: Tank 2 is filling at 28.49 ft
    
-    18:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 18:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 18:00:00 hrs.
    
-    18:30:00: Balanced after 2 trials
-    18:30:00: Tank 2 is emptying at 28.51 ft
+    18:15:00: Balanced after 1 trials
    
-    18:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 18:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 18:15:00 hrs.
    
-    19:00:00: Balanced after 2 trials
+    18:30:00: Balanced after 1 trials
    
-    19:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 18:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 18:30:00 hrs.
    
-    19:30:00: Balanced after 2 trials
+    18:45:00: Balanced after 1 trials
    
-    19:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 18:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 18:45:00 hrs.
    
-    20:00:00: Balanced after 3 trials
+    19:00:00: Balanced after 1 trials
    
-    20:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 19:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 19:00:00 hrs.
    
-    20:30:00: Balanced after 2 trials
+    19:15:00: Balanced after 1 trials
    
-    20:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 19:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 19:15:00 hrs.
+   
+    19:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 19:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 19:30:00 hrs.
+   
+    19:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 19:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 19:45:00 hrs.
+   
+    20:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 20:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 20:00:00 hrs.
+   
+    20:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 20:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 20:15:00 hrs.
+   
+    20:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 20:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 20:30:00 hrs.
+   
+    20:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 20:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 20:45:00 hrs.
    
     21:00:00: Balanced after 2 trials
    
-    21:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 21:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 21:00:00 hrs.
    
-    21:30:00: Balanced after 2 trials
+    21:15:00: Balanced after 1 trials
    
-    21:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 21:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 21:15:00 hrs.
    
-    22:00:00: Balanced after 3 trials
+    21:30:00: Balanced after 1 trials
    
-    22:02:32: Pump 335 changed by Tank 1 control
-    22:02:32: Pipe 330 changed by Tank 1 control
-    22:02:32: Balanced after 5 trials
-    22:02:32: Tank 3 is filling at 30.08 ft
-    22:02:32: Pipe 330 changed from open to closed
-    22:02:32: Pump 335 changed from closed to open
+  WARNING: Negative pressures at 21:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 21:30:00 hrs.
    
-    22:15:00: Balanced after 2 trials
+    21:45:00: Balanced after 1 trials
    
-    22:30:00: Balanced after 2 trials
+  WARNING: Negative pressures at 21:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 21:45:00 hrs.
    
-    22:45:00: Balanced after 2 trials
+    22:00:00: Balanced after 2 trials
    
-    23:00:00: Balanced after 3 trials
+  WARNING: Negative pressures at 22:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 22:00:00 hrs.
    
-    23:15:00: Balanced after 2 trials
+    22:15:00: Balanced after 1 trials
    
-    23:30:00: Balanced after 2 trials
+  WARNING: Negative pressures at 22:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 22:15:00 hrs.
    
-    23:45:00: Balanced after 2 trials
+    22:30:00: Balanced after 1 trials
    
-    24:00:00: Balanced after 4 trials
-    24:00:00: Tank 1 is filling at 15.86 ft
+  WARNING: Negative pressures at 22:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 22:30:00 hrs.
    
-    24:15:00: Balanced after 2 trials
+    22:45:00: Balanced after 1 trials
    
-    24:30:00: Balanced after 2 trials
+  WARNING: Negative pressures at 22:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 22:45:00 hrs.
    
-    24:45:00: Balanced after 2 trials
+    23:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 23:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 23:00:00 hrs.
+   
+    23:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 23:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 23:15:00 hrs.
+   
+    23:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 23:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 23:30:00 hrs.
+   
+    23:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 23:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 23:45:00 hrs.
+   
+    24:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 24:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 24:00:00 hrs.
+   
+    24:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 24:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 24:15:00 hrs.
+   
+    24:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 24:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 24:30:00 hrs.
+   
+    24:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 24:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 24:45:00 hrs.
    
     25:00:00: Pump 10 changed by timer control
-    25:00:00: Balanced after 7 trials
+    25:00:00: Balanced after 5 trials
     25:00:00: Reservoir Lake is emptying
     25:00:00: Pump 10 changed from closed to open
    
-    25:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 25:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 25:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 25:00:00 hrs.
    
-    25:30:00: Balanced after 2 trials
+    25:15:00: Balanced after 1 trials
    
-    25:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 25:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 25:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 25:15:00 hrs.
    
-    26:00:00: Balanced after 3 trials
-    26:00:00: Tank 2 is filling at 22.50 ft
+    25:30:00: Balanced after 1 trials
    
-    26:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 25:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 25:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 25:30:00 hrs.
    
-    26:30:00: Balanced after 2 trials
+    25:45:00: Balanced after 1 trials
    
-    26:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 25:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 25:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 25:45:00 hrs.
    
-    26:53:32: Pump 335 changed by Tank 1 control
-    26:53:32: Pipe 330 changed by Tank 1 control
-    26:53:32: Balanced after 4 trials
-    26:53:32: Tank 3 is emptying at 34.56 ft
-    26:53:32: Pipe 330 changed from closed to open
-    26:53:32: Pump 335 changed from open to closed
+    26:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 26:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 26:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 26:00:00 hrs.
+   
+    26:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 26:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 26:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 26:15:00 hrs.
+   
+    26:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 26:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 26:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 26:30:00 hrs.
+   
+    26:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 26:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 26:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 26:45:00 hrs.
    
     27:00:00: Balanced after 2 trials
    
-    27:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 27:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 27:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 27:00:00 hrs.
    
-    27:30:00: Balanced after 2 trials
+    27:15:00: Balanced after 1 trials
    
-    27:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 27:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 27:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 27:15:00 hrs.
    
-    28:00:00: Balanced after 3 trials
-    28:00:00: Tank 3 is filling at 34.43 ft
+    27:30:00: Balanced after 1 trials
    
-    28:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 27:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 27:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 27:30:00 hrs.
    
-    28:30:00: Balanced after 2 trials
+    27:45:00: Balanced after 1 trials
    
-    28:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 27:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 27:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 27:45:00 hrs.
    
-    29:00:00: Balanced after 3 trials
-    29:00:00: Tank 3 is emptying at 34.72 ft
+    28:00:00: Balanced after 2 trials
    
-    29:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 28:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 28:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 28:00:00 hrs.
    
-    29:30:00: Balanced after 2 trials
+    28:15:00: Balanced after 1 trials
    
-    29:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 28:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 28:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 28:15:00 hrs.
    
-    30:00:00: Balanced after 3 trials
-    30:00:00: Tank 3 is filling at 34.64 ft
+    28:30:00: Balanced after 1 trials
    
-    30:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 28:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 28:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 28:30:00 hrs.
    
-    30:30:00: Balanced after 2 trials
+    28:45:00: Balanced after 1 trials
    
-    30:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 28:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 28:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 28:45:00 hrs.
    
-    31:00:00: Balanced after 3 trials
+    29:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 29:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 29:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 29:00:00 hrs.
+   
+    29:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 29:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 29:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 29:15:00 hrs.
+   
+    29:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 29:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 29:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 29:30:00 hrs.
+   
+    29:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 29:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 29:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 29:45:00 hrs.
+   
+    30:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 30:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 30:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 30:00:00 hrs.
+   
+    30:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 30:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 30:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 30:15:00 hrs.
+   
+    30:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 30:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 30:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 30:30:00 hrs.
+   
+    30:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 30:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 30:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 30:45:00 hrs.
+   
+    31:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 31:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 31:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 31:00:00 hrs.
    
     31:15:00: Balanced after 1 trials
    
+  WARNING: Negative pressures at 31:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 31:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 31:15:00 hrs.
+   
     31:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 31:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 31:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 31:30:00 hrs.
    
     31:45:00: Balanced after 1 trials
    
+  WARNING: Negative pressures at 31:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 31:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 31:45:00 hrs.
+   
     32:00:00: Balanced after 2 trials
    
-    32:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 32:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 32:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 32:00:00 hrs.
    
-    32:16:28: Balanced after 4 trials
-    32:16:28: Tank 3 is closed at 35.50 ft
-    32:16:28: Pipe 20 changed from open to temporarily closed
+    32:15:00: Balanced after 1 trials
    
-    32:30:00: Balanced after 2 trials
+  WARNING: Negative pressures at 32:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 32:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 32:15:00 hrs.
    
-    32:45:00: Balanced after 2 trials
+    32:30:00: Balanced after 1 trials
    
-    33:00:00: Balanced after 5 trials
-    33:00:00: Tank 1 is emptying at 23.10 ft
-    33:00:00: Tank 3 is emptying at 35.50 ft
-    33:00:00: Pipe 20 changed from temporarily closed to open
+  WARNING: Negative pressures at 32:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 32:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 32:30:00 hrs.
    
-    33:15:00: Balanced after 2 trials
+    32:45:00: Balanced after 1 trials
    
-    33:30:00: Balanced after 2 trials
+  WARNING: Negative pressures at 32:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 32:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 32:45:00 hrs.
    
-    33:45:00: Balanced after 2 trials
+    33:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 33:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 33:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 33:00:00 hrs.
+   
+    33:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 33:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 33:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 33:15:00 hrs.
+   
+    33:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 33:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 33:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 33:30:00 hrs.
+   
+    33:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 33:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 33:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 33:45:00 hrs.
    
     34:00:00: Balanced after 2 trials
    
-    34:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 34:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 34:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 34:00:00 hrs.
    
-    34:30:00: Balanced after 2 trials
+    34:15:00: Balanced after 1 trials
    
-    34:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 34:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 34:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 34:15:00 hrs.
    
-    35:00:00: Balanced after 3 trials
-    35:00:00: Tank 2 is emptying at 28.82 ft
+    34:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 34:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 34:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 34:30:00 hrs.
+   
+    34:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 34:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 34:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 34:45:00 hrs.
+   
+    35:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 35:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 35:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 35:00:00 hrs.
    
     35:15:00: Balanced after 1 trials
    
+  WARNING: Negative pressures at 35:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 35:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 35:15:00 hrs.
+   
     35:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 35:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 35:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 35:30:00 hrs.
    
     35:45:00: Balanced after 1 trials
    
+  WARNING: Negative pressures at 35:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 35:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 35:45:00 hrs.
+   
     36:00:00: Balanced after 2 trials
-    36:00:00: Tank 2 is closed at 28.72 ft
    
-    36:15:00: Balanced after 2 trials
-    36:15:00: Tank 2 is emptying at 28.72 ft
+  WARNING: Negative pressures at 36:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 36:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 36:00:00 hrs.
    
-    36:30:00: Balanced after 2 trials
+    36:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 36:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 36:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 36:15:00 hrs.
+   
+    36:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 36:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 36:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 36:30:00 hrs.
    
     36:45:00: Balanced after 1 trials
    
-    37:00:00: Balanced after 3 trials
-    37:00:00: Tank 1 is filling at 22.21 ft
-    37:00:00: Tank 2 is filling at 28.70 ft
+  WARNING: Negative pressures at 36:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 36:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 36:45:00 hrs.
    
-    37:15:00: Balanced after 2 trials
-    37:15:00: Tank 1 is emptying at 22.22 ft
+    37:00:00: Balanced after 2 trials
    
-    37:30:00: Balanced after 2 trials
+  WARNING: Negative pressures at 37:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 37:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 37:00:00 hrs.
    
-    37:45:00: Balanced after 2 trials
+    37:15:00: Balanced after 1 trials
    
-    38:00:00: Balanced after 3 trials
-    38:00:00: Tank 1 is filling at 22.20 ft
+  WARNING: Negative pressures at 37:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 37:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 37:15:00 hrs.
    
-    38:15:00: Balanced after 2 trials
+    37:30:00: Balanced after 1 trials
    
-    38:30:00: Balanced after 2 trials
+  WARNING: Negative pressures at 37:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 37:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 37:30:00 hrs.
    
-    38:45:00: Balanced after 2 trials
+    37:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 37:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 37:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 37:45:00 hrs.
+   
+    38:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 38:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 38:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 38:00:00 hrs.
+   
+    38:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 38:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 38:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 38:15:00 hrs.
+   
+    38:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 38:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 38:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 38:30:00 hrs.
+   
+    38:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 38:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 38:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 38:45:00 hrs.
    
     39:00:00: Pump 10 changed by timer control
-    39:00:00: Balanced after 5 trials
+    39:00:00: Balanced after 4 trials
     39:00:00: Reservoir Lake is closed
-    39:00:00: Tank 1 is emptying at 22.41 ft
-    39:00:00: Tank 2 is emptying at 29.20 ft
     39:00:00: Pump 10 changed from open to closed
    
-    39:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 39:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 39:00:00 hrs.
    
-    39:30:00: Balanced after 2 trials
+    39:15:00: Balanced after 1 trials
    
-    39:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 39:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 39:15:00 hrs.
    
-    40:00:00: Balanced after 3 trials
+    39:30:00: Balanced after 1 trials
    
-    40:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 39:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 39:30:00 hrs.
    
-    40:30:00: Balanced after 2 trials
+    39:45:00: Balanced after 1 trials
    
-    40:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 39:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 39:45:00 hrs.
+   
+    40:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 40:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 40:00:00 hrs.
+   
+    40:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 40:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 40:15:00 hrs.
+   
+    40:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 40:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 40:30:00 hrs.
+   
+    40:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 40:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 40:45:00 hrs.
    
     41:00:00: Balanced after 2 trials
    
-    41:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 41:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 41:00:00 hrs.
    
-    41:30:00: Balanced after 2 trials
+    41:15:00: Balanced after 1 trials
    
-    41:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 41:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 41:15:00 hrs.
+   
+    41:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 41:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 41:30:00 hrs.
+   
+    41:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 41:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 41:45:00 hrs.
    
     42:00:00: Balanced after 2 trials
-    42:00:00: Tank 2 is filling at 28.68 ft
    
-    42:15:00: Balanced after 2 trials
-    42:15:00: Tank 2 is emptying at 28.69 ft
+  WARNING: Negative pressures at 42:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 42:00:00 hrs.
    
-    42:30:00: Balanced after 2 trials
+    42:15:00: Balanced after 1 trials
    
-    42:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 42:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 42:15:00 hrs.
    
-    43:00:00: Balanced after 2 trials
+    42:30:00: Balanced after 1 trials
    
-    43:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 42:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 42:30:00 hrs.
    
-    43:30:00: Balanced after 2 trials
+    42:45:00: Balanced after 1 trials
    
-    43:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 42:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 42:45:00 hrs.
    
-    44:00:00: Balanced after 3 trials
+    43:00:00: Balanced after 1 trials
    
-    44:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 43:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 43:00:00 hrs.
    
-    44:30:00: Balanced after 2 trials
+    43:15:00: Balanced after 1 trials
    
-    44:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 43:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 43:15:00 hrs.
+   
+    43:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 43:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 43:30:00 hrs.
+   
+    43:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 43:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 43:45:00 hrs.
+   
+    44:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 44:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 44:00:00 hrs.
+   
+    44:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 44:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 44:15:00 hrs.
+   
+    44:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 44:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 44:30:00 hrs.
+   
+    44:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 44:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 44:45:00 hrs.
    
     45:00:00: Balanced after 2 trials
    
-    45:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 45:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 45:00:00 hrs.
    
-    45:30:00: Balanced after 2 trials
+    45:15:00: Balanced after 1 trials
    
-    45:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 45:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 45:15:00 hrs.
    
-    46:00:00: Balanced after 3 trials
+    45:30:00: Balanced after 1 trials
    
-    46:09:02: Pump 335 changed by Tank 1 control
-    46:09:02: Pipe 330 changed by Tank 1 control
-    46:09:02: Balanced after 5 trials
-    46:09:02: Tank 3 is filling at 30.11 ft
-    46:09:02: Pipe 330 changed from open to closed
-    46:09:02: Pump 335 changed from closed to open
+  WARNING: Negative pressures at 45:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 45:30:00 hrs.
    
-    46:15:00: Balanced after 2 trials
+    45:45:00: Balanced after 1 trials
    
-    46:30:00: Balanced after 2 trials
+  WARNING: Negative pressures at 45:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 45:45:00 hrs.
    
-    46:45:00: Balanced after 2 trials
+    46:00:00: Balanced after 2 trials
    
-    47:00:00: Balanced after 3 trials
+  WARNING: Negative pressures at 46:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 46:00:00 hrs.
    
-    47:15:00: Balanced after 2 trials
+    46:15:00: Balanced after 1 trials
    
-    47:30:00: Balanced after 2 trials
+  WARNING: Negative pressures at 46:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 46:15:00 hrs.
    
-    47:45:00: Balanced after 2 trials
+    46:30:00: Balanced after 1 trials
    
-    48:00:00: Balanced after 4 trials
-    48:00:00: Tank 1 is filling at 15.88 ft
+  WARNING: Negative pressures at 46:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 46:30:00 hrs.
    
-    48:15:00: Balanced after 2 trials
+    46:45:00: Balanced after 1 trials
    
-    48:30:00: Balanced after 2 trials
+  WARNING: Negative pressures at 46:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 46:45:00 hrs.
    
-    48:45:00: Balanced after 2 trials
+    47:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 47:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 47:00:00 hrs.
+   
+    47:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 47:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 47:15:00 hrs.
+   
+    47:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 47:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 47:30:00 hrs.
+   
+    47:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 47:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 47:45:00 hrs.
+   
+    48:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 48:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 48:00:00 hrs.
+   
+    48:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 48:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 48:15:00 hrs.
+   
+    48:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 48:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 48:30:00 hrs.
+   
+    48:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 48:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 48:45:00 hrs.
    
     49:00:00: Pump 10 changed by timer control
-    49:00:00: Balanced after 7 trials
+    49:00:00: Balanced after 5 trials
     49:00:00: Reservoir Lake is emptying
     49:00:00: Pump 10 changed from closed to open
    
-    49:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 49:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 49:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 49:00:00 hrs.
    
-    49:30:00: Balanced after 2 trials
+    49:15:00: Balanced after 1 trials
    
-    49:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 49:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 49:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 49:15:00 hrs.
    
-    50:00:00: Balanced after 3 trials
-    50:00:00: Tank 2 is filling at 22.52 ft
+    49:30:00: Balanced after 1 trials
    
-    50:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 49:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 49:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 49:30:00 hrs.
    
-    50:30:00: Balanced after 2 trials
+    49:45:00: Balanced after 1 trials
    
-    50:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 49:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 49:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 49:45:00 hrs.
    
-    50:53:18: Pump 335 changed by Tank 1 control
-    50:53:18: Pipe 330 changed by Tank 1 control
-    50:53:18: Balanced after 4 trials
-    50:53:18: Tank 3 is emptying at 34.52 ft
-    50:53:18: Pipe 330 changed from closed to open
-    50:53:18: Pump 335 changed from open to closed
+    50:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 50:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 50:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 50:00:00 hrs.
+   
+    50:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 50:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 50:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 50:15:00 hrs.
+   
+    50:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 50:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 50:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 50:30:00 hrs.
+   
+    50:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 50:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 50:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 50:45:00 hrs.
    
     51:00:00: Balanced after 2 trials
    
-    51:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 51:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 51:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 51:00:00 hrs.
    
-    51:30:00: Balanced after 2 trials
+    51:15:00: Balanced after 1 trials
    
-    51:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 51:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 51:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 51:15:00 hrs.
    
-    52:00:00: Balanced after 3 trials
-    52:00:00: Tank 3 is filling at 34.39 ft
+    51:30:00: Balanced after 1 trials
    
-    52:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 51:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 51:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 51:30:00 hrs.
    
-    52:30:00: Balanced after 2 trials
+    51:45:00: Balanced after 1 trials
    
-    52:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 51:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 51:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 51:45:00 hrs.
    
-    53:00:00: Balanced after 3 trials
-    53:00:00: Tank 3 is emptying at 34.69 ft
+    52:00:00: Balanced after 2 trials
    
-    53:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 52:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 52:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 52:00:00 hrs.
    
-    53:30:00: Balanced after 2 trials
+    52:15:00: Balanced after 1 trials
    
-    53:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 52:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 52:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 52:15:00 hrs.
    
-    54:00:00: Balanced after 3 trials
-    54:00:00: Tank 3 is filling at 34.61 ft
+    52:30:00: Balanced after 1 trials
    
-    54:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 52:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 52:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 52:30:00 hrs.
    
-    54:30:00: Balanced after 2 trials
+    52:45:00: Balanced after 1 trials
    
-    54:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 52:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 52:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 52:45:00 hrs.
    
-    55:00:00: Balanced after 3 trials
+    53:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 53:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 53:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 53:00:00 hrs.
+   
+    53:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 53:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 53:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 53:15:00 hrs.
+   
+    53:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 53:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 53:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 53:30:00 hrs.
+   
+    53:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 53:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 53:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 53:45:00 hrs.
+   
+    54:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 54:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 54:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 54:00:00 hrs.
+   
+    54:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 54:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 54:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 54:15:00 hrs.
+   
+    54:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 54:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 54:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 54:30:00 hrs.
+   
+    54:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 54:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 54:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 54:45:00 hrs.
+   
+    55:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 55:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 55:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 55:00:00 hrs.
    
     55:15:00: Balanced after 1 trials
    
+  WARNING: Negative pressures at 55:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 55:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 55:15:00 hrs.
+   
     55:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 55:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 55:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 55:30:00 hrs.
    
     55:45:00: Balanced after 1 trials
    
+  WARNING: Negative pressures at 55:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 55:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 55:45:00 hrs.
+   
     56:00:00: Balanced after 2 trials
    
-    56:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 56:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 56:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 56:00:00 hrs.
    
-    56:20:48: Balanced after 4 trials
-    56:20:48: Tank 3 is closed at 35.50 ft
-    56:20:48: Pipe 20 changed from open to temporarily closed
+    56:15:00: Balanced after 1 trials
    
-    56:30:00: Balanced after 2 trials
+  WARNING: Negative pressures at 56:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 56:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 56:15:00 hrs.
    
-    56:45:00: Balanced after 2 trials
+    56:30:00: Balanced after 1 trials
    
-    57:00:00: Balanced after 5 trials
-    57:00:00: Tank 1 is emptying at 23.03 ft
-    57:00:00: Tank 3 is emptying at 35.50 ft
-    57:00:00: Pipe 20 changed from temporarily closed to open
+  WARNING: Negative pressures at 56:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 56:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 56:30:00 hrs.
    
-    57:15:00: Balanced after 2 trials
+    56:45:00: Balanced after 1 trials
    
-    57:30:00: Balanced after 2 trials
+  WARNING: Negative pressures at 56:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 56:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 56:45:00 hrs.
    
-    57:45:00: Balanced after 2 trials
+    57:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 57:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 57:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 57:00:00 hrs.
+   
+    57:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 57:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 57:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 57:15:00 hrs.
+   
+    57:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 57:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 57:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 57:30:00 hrs.
+   
+    57:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 57:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 57:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 57:45:00 hrs.
    
     58:00:00: Balanced after 2 trials
    
-    58:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 58:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 58:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 58:00:00 hrs.
    
-    58:30:00: Balanced after 2 trials
+    58:15:00: Balanced after 1 trials
    
-    58:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 58:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 58:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 58:15:00 hrs.
    
-    59:00:00: Balanced after 3 trials
-    59:00:00: Tank 2 is emptying at 28.78 ft
+    58:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 58:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 58:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 58:30:00 hrs.
+   
+    58:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 58:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 58:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 58:45:00 hrs.
+   
+    59:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 59:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 59:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 59:00:00 hrs.
    
     59:15:00: Balanced after 1 trials
    
+  WARNING: Negative pressures at 59:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 59:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 59:15:00 hrs.
+   
     59:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 59:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 59:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 59:30:00 hrs.
    
     59:45:00: Balanced after 1 trials
    
+  WARNING: Negative pressures at 59:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 59:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 59:45:00 hrs.
+   
     60:00:00: Balanced after 2 trials
-    60:00:00: Tank 2 is filling at 28.68 ft
    
-    60:15:00: Balanced after 2 trials
-    60:15:00: Tank 2 is emptying at 28.68 ft
+  WARNING: Negative pressures at 60:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 60:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 60:00:00 hrs.
    
-    60:30:00: Balanced after 2 trials
+    60:15:00: Balanced after 1 trials
    
-    60:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 60:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 60:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 60:15:00 hrs.
    
-    61:00:00: Balanced after 3 trials
-    61:00:00: Tank 1 is filling at 22.19 ft
-    61:00:00: Tank 2 is filling at 28.66 ft
+    60:30:00: Balanced after 1 trials
    
-    61:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 60:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 60:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 60:30:00 hrs.
    
-    61:30:00: Balanced after 2 trials
-    61:30:00: Tank 1 is emptying at 22.19 ft
+    60:45:00: Balanced after 1 trials
    
-    61:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 60:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 60:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 60:45:00 hrs.
    
-    62:00:00: Balanced after 3 trials
-    62:00:00: Tank 1 is filling at 22.18 ft
+    61:00:00: Balanced after 2 trials
    
-    62:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 61:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 61:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 61:00:00 hrs.
    
-    62:30:00: Balanced after 2 trials
+    61:15:00: Balanced after 1 trials
    
-    62:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 61:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 61:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 61:15:00 hrs.
+   
+    61:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 61:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 61:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 61:30:00 hrs.
+   
+    61:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 61:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 61:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 61:45:00 hrs.
+   
+    62:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 62:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 62:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 62:00:00 hrs.
+   
+    62:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 62:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 62:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 62:15:00 hrs.
+   
+    62:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 62:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 62:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 62:30:00 hrs.
+   
+    62:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 62:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 62:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 62:45:00 hrs.
    
     63:00:00: Pump 10 changed by timer control
-    63:00:00: Balanced after 5 trials
+    63:00:00: Balanced after 4 trials
     63:00:00: Reservoir Lake is closed
-    63:00:00: Tank 1 is emptying at 22.39 ft
-    63:00:00: Tank 2 is emptying at 29.17 ft
     63:00:00: Pump 10 changed from open to closed
    
-    63:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 63:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 63:00:00 hrs.
    
-    63:30:00: Balanced after 2 trials
+    63:15:00: Balanced after 1 trials
    
-    63:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 63:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 63:15:00 hrs.
    
-    64:00:00: Balanced after 3 trials
+    63:30:00: Balanced after 1 trials
    
-    64:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 63:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 63:30:00 hrs.
    
-    64:30:00: Balanced after 2 trials
+    63:45:00: Balanced after 1 trials
    
-    64:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 63:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 63:45:00 hrs.
+   
+    64:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 64:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 64:00:00 hrs.
+   
+    64:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 64:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 64:15:00 hrs.
+   
+    64:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 64:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 64:30:00 hrs.
+   
+    64:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 64:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 64:45:00 hrs.
    
     65:00:00: Balanced after 2 trials
    
-    65:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 65:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 65:00:00 hrs.
    
-    65:30:00: Balanced after 2 trials
+    65:15:00: Balanced after 1 trials
    
-    65:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 65:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 65:15:00 hrs.
+   
+    65:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 65:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 65:30:00 hrs.
+   
+    65:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 65:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 65:45:00 hrs.
    
     66:00:00: Balanced after 2 trials
-    66:00:00: Tank 2 is filling at 28.66 ft
    
-    66:15:00: Balanced after 2 trials
-    66:15:00: Tank 2 is emptying at 28.67 ft
+  WARNING: Negative pressures at 66:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 66:00:00 hrs.
    
-    66:30:00: Balanced after 2 trials
+    66:15:00: Balanced after 1 trials
    
-    66:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 66:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 66:15:00 hrs.
    
-    67:00:00: Balanced after 2 trials
+    66:30:00: Balanced after 1 trials
    
-    67:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 66:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 66:30:00 hrs.
    
-    67:30:00: Balanced after 2 trials
+    66:45:00: Balanced after 1 trials
    
-    67:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 66:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 66:45:00 hrs.
    
-    68:00:00: Balanced after 3 trials
+    67:00:00: Balanced after 1 trials
    
-    68:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 67:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 67:00:00 hrs.
    
-    68:30:00: Balanced after 2 trials
+    67:15:00: Balanced after 1 trials
    
-    68:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 67:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 67:15:00 hrs.
+   
+    67:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 67:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 67:30:00 hrs.
+   
+    67:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 67:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 67:45:00 hrs.
+   
+    68:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 68:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 68:00:00 hrs.
+   
+    68:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 68:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 68:15:00 hrs.
+   
+    68:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 68:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 68:30:00 hrs.
+   
+    68:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 68:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 68:45:00 hrs.
    
     69:00:00: Balanced after 2 trials
    
-    69:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 69:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 69:00:00 hrs.
    
-    69:30:00: Balanced after 2 trials
+    69:15:00: Balanced after 1 trials
    
-    69:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 69:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 69:15:00 hrs.
    
-    70:00:00: Balanced after 3 trials
+    69:30:00: Balanced after 1 trials
    
-    70:08:18: Pump 335 changed by Tank 1 control
-    70:08:18: Pipe 330 changed by Tank 1 control
-    70:08:18: Balanced after 5 trials
-    70:08:18: Tank 3 is filling at 30.10 ft
-    70:08:18: Pipe 330 changed from open to closed
-    70:08:18: Pump 335 changed from closed to open
+  WARNING: Negative pressures at 69:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 69:30:00 hrs.
    
-    70:15:00: Balanced after 2 trials
+    69:45:00: Balanced after 1 trials
    
-    70:30:00: Balanced after 2 trials
+  WARNING: Negative pressures at 69:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 69:45:00 hrs.
    
-    70:45:00: Balanced after 2 trials
+    70:00:00: Balanced after 2 trials
    
-    71:00:00: Balanced after 3 trials
+  WARNING: Negative pressures at 70:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 70:00:00 hrs.
    
-    71:15:00: Balanced after 2 trials
+    70:15:00: Balanced after 1 trials
    
-    71:30:00: Balanced after 2 trials
+  WARNING: Negative pressures at 70:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 70:15:00 hrs.
    
-    71:45:00: Balanced after 2 trials
+    70:30:00: Balanced after 1 trials
    
-    72:00:00: Balanced after 4 trials
-    72:00:00: Tank 1 is filling at 15.88 ft
+  WARNING: Negative pressures at 70:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 70:30:00 hrs.
    
-    72:15:00: Balanced after 2 trials
+    70:45:00: Balanced after 1 trials
    
-    72:30:00: Balanced after 2 trials
+  WARNING: Negative pressures at 70:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 70:45:00 hrs.
    
-    72:45:00: Balanced after 2 trials
+    71:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 71:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 71:00:00 hrs.
+   
+    71:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 71:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 71:15:00 hrs.
+   
+    71:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 71:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 71:30:00 hrs.
+   
+    71:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 71:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 71:45:00 hrs.
+   
+    72:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 72:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 72:00:00 hrs.
+   
+    72:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 72:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 72:15:00 hrs.
+   
+    72:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 72:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 72:30:00 hrs.
+   
+    72:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 72:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 72:45:00 hrs.
    
     73:00:00: Pump 10 changed by timer control
-    73:00:00: Balanced after 7 trials
+    73:00:00: Balanced after 5 trials
     73:00:00: Reservoir Lake is emptying
     73:00:00: Pump 10 changed from closed to open
    
-    73:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 73:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 73:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 73:00:00 hrs.
    
-    73:30:00: Balanced after 2 trials
+    73:15:00: Balanced after 1 trials
    
-    73:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 73:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 73:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 73:15:00 hrs.
    
-    74:00:00: Balanced after 3 trials
-    74:00:00: Tank 2 is filling at 22.52 ft
+    73:30:00: Balanced after 1 trials
    
-    74:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 73:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 73:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 73:30:00 hrs.
    
-    74:30:00: Balanced after 2 trials
+    73:45:00: Balanced after 1 trials
    
-    74:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 73:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 73:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 73:45:00 hrs.
    
-    74:53:20: Pump 335 changed by Tank 1 control
-    74:53:20: Pipe 330 changed by Tank 1 control
-    74:53:20: Balanced after 4 trials
-    74:53:20: Tank 3 is emptying at 34.52 ft
-    74:53:20: Pipe 330 changed from closed to open
-    74:53:20: Pump 335 changed from open to closed
+    74:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 74:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 74:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 74:00:00 hrs.
+   
+    74:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 74:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 74:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 74:15:00 hrs.
+   
+    74:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 74:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 74:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 74:30:00 hrs.
+   
+    74:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 74:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 74:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 74:45:00 hrs.
    
     75:00:00: Balanced after 2 trials
    
-    75:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 75:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 75:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 75:00:00 hrs.
    
-    75:30:00: Balanced after 2 trials
+    75:15:00: Balanced after 1 trials
    
-    75:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 75:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 75:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 75:15:00 hrs.
    
-    76:00:00: Balanced after 3 trials
-    76:00:00: Tank 3 is filling at 34.39 ft
+    75:30:00: Balanced after 1 trials
    
-    76:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 75:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 75:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 75:30:00 hrs.
    
-    76:30:00: Balanced after 2 trials
+    75:45:00: Balanced after 1 trials
    
-    76:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 75:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 75:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 75:45:00 hrs.
    
-    77:00:00: Balanced after 3 trials
-    77:00:00: Tank 3 is emptying at 34.69 ft
+    76:00:00: Balanced after 2 trials
    
-    77:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 76:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 76:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 76:00:00 hrs.
    
-    77:30:00: Balanced after 2 trials
+    76:15:00: Balanced after 1 trials
    
-    77:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 76:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 76:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 76:15:00 hrs.
    
-    78:00:00: Balanced after 3 trials
-    78:00:00: Tank 3 is filling at 34.61 ft
+    76:30:00: Balanced after 1 trials
    
-    78:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 76:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 76:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 76:30:00 hrs.
    
-    78:30:00: Balanced after 2 trials
+    76:45:00: Balanced after 1 trials
    
-    78:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 76:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 76:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 76:45:00 hrs.
    
-    79:00:00: Balanced after 3 trials
+    77:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 77:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 77:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 77:00:00 hrs.
+   
+    77:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 77:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 77:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 77:15:00 hrs.
+   
+    77:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 77:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 77:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 77:30:00 hrs.
+   
+    77:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 77:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 77:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 77:45:00 hrs.
+   
+    78:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 78:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 78:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 78:00:00 hrs.
+   
+    78:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 78:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 78:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 78:15:00 hrs.
+   
+    78:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 78:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 78:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 78:30:00 hrs.
+   
+    78:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 78:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 78:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 78:45:00 hrs.
+   
+    79:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 79:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 79:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 79:00:00 hrs.
    
     79:15:00: Balanced after 1 trials
    
+  WARNING: Negative pressures at 79:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 79:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 79:15:00 hrs.
+   
     79:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 79:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 79:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 79:30:00 hrs.
    
     79:45:00: Balanced after 1 trials
    
+  WARNING: Negative pressures at 79:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 79:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 79:45:00 hrs.
+   
     80:00:00: Balanced after 2 trials
    
-    80:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 80:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 80:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 80:00:00 hrs.
    
-    80:20:18: Balanced after 4 trials
-    80:20:18: Tank 3 is closed at 35.50 ft
-    80:20:18: Pipe 20 changed from open to temporarily closed
+    80:15:00: Balanced after 1 trials
    
-    80:30:00: Balanced after 2 trials
+  WARNING: Negative pressures at 80:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 80:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 80:15:00 hrs.
    
-    80:45:00: Balanced after 2 trials
+    80:30:00: Balanced after 1 trials
    
-    81:00:00: Balanced after 5 trials
-    81:00:00: Tank 1 is emptying at 23.04 ft
-    81:00:00: Tank 3 is emptying at 35.50 ft
-    81:00:00: Pipe 20 changed from temporarily closed to open
+  WARNING: Negative pressures at 80:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 80:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 80:30:00 hrs.
    
-    81:15:00: Balanced after 2 trials
+    80:45:00: Balanced after 1 trials
    
-    81:30:00: Balanced after 2 trials
+  WARNING: Negative pressures at 80:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 80:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 80:45:00 hrs.
    
-    81:45:00: Balanced after 2 trials
+    81:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 81:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 81:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 81:00:00 hrs.
+   
+    81:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 81:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 81:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 81:15:00 hrs.
+   
+    81:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 81:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 81:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 81:30:00 hrs.
+   
+    81:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 81:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 81:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 81:45:00 hrs.
    
     82:00:00: Balanced after 2 trials
    
-    82:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 82:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 82:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 82:00:00 hrs.
    
-    82:30:00: Balanced after 2 trials
+    82:15:00: Balanced after 1 trials
    
-    82:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 82:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 82:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 82:15:00 hrs.
    
-    83:00:00: Balanced after 3 trials
-    83:00:00: Tank 2 is emptying at 28.79 ft
+    82:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 82:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 82:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 82:30:00 hrs.
+   
+    82:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 82:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 82:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 82:45:00 hrs.
+   
+    83:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 83:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 83:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 83:00:00 hrs.
    
     83:15:00: Balanced after 1 trials
    
+  WARNING: Negative pressures at 83:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 83:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 83:15:00 hrs.
+   
     83:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 83:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 83:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 83:30:00 hrs.
    
     83:45:00: Balanced after 1 trials
    
+  WARNING: Negative pressures at 83:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 83:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 83:45:00 hrs.
+   
     84:00:00: Balanced after 2 trials
-    84:00:00: Tank 2 is filling at 28.69 ft
    
-    84:15:00: Balanced after 2 trials
-    84:15:00: Tank 2 is emptying at 28.69 ft
+  WARNING: Negative pressures at 84:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 84:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 84:00:00 hrs.
    
-    84:30:00: Balanced after 2 trials
+    84:15:00: Balanced after 1 trials
    
-    84:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 84:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 84:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 84:15:00 hrs.
    
-    85:00:00: Balanced after 3 trials
-    85:00:00: Tank 1 is filling at 22.19 ft
-    85:00:00: Tank 2 is filling at 28.67 ft
+    84:30:00: Balanced after 1 trials
    
-    85:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 84:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 84:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 84:30:00 hrs.
    
-    85:30:00: Balanced after 2 trials
-    85:30:00: Tank 1 is emptying at 22.20 ft
+    84:45:00: Balanced after 1 trials
    
-    85:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 84:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 84:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 84:45:00 hrs.
    
-    86:00:00: Balanced after 3 trials
-    86:00:00: Tank 1 is filling at 22.18 ft
+    85:00:00: Balanced after 2 trials
    
-    86:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 85:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 85:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 85:00:00 hrs.
    
-    86:30:00: Balanced after 2 trials
+    85:15:00: Balanced after 1 trials
    
-    86:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 85:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 85:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 85:15:00 hrs.
+   
+    85:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 85:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 85:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 85:30:00 hrs.
+   
+    85:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 85:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 85:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 85:45:00 hrs.
+   
+    86:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 86:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 86:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 86:00:00 hrs.
+   
+    86:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 86:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 86:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 86:15:00 hrs.
+   
+    86:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 86:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 86:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 86:30:00 hrs.
+   
+    86:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 86:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 86:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 86:45:00 hrs.
    
     87:00:00: Pump 10 changed by timer control
-    87:00:00: Balanced after 5 trials
+    87:00:00: Balanced after 4 trials
     87:00:00: Reservoir Lake is closed
-    87:00:00: Tank 1 is emptying at 22.40 ft
-    87:00:00: Tank 2 is emptying at 29.17 ft
     87:00:00: Pump 10 changed from open to closed
    
-    87:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 87:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 87:00:00 hrs.
    
-    87:30:00: Balanced after 2 trials
+    87:15:00: Balanced after 1 trials
    
-    87:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 87:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 87:15:00 hrs.
    
-    88:00:00: Balanced after 3 trials
+    87:30:00: Balanced after 1 trials
    
-    88:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 87:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 87:30:00 hrs.
    
-    88:30:00: Balanced after 2 trials
+    87:45:00: Balanced after 1 trials
    
-    88:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 87:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 87:45:00 hrs.
+   
+    88:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 88:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 88:00:00 hrs.
+   
+    88:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 88:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 88:15:00 hrs.
+   
+    88:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 88:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 88:30:00 hrs.
+   
+    88:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 88:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 88:45:00 hrs.
    
     89:00:00: Balanced after 2 trials
    
-    89:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 89:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 89:00:00 hrs.
    
-    89:30:00: Balanced after 2 trials
+    89:15:00: Balanced after 1 trials
    
-    89:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 89:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 89:15:00 hrs.
+   
+    89:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 89:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 89:30:00 hrs.
+   
+    89:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 89:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 89:45:00 hrs.
    
     90:00:00: Balanced after 2 trials
-    90:00:00: Tank 2 is filling at 28.66 ft
    
-    90:15:00: Balanced after 2 trials
-    90:15:00: Tank 2 is emptying at 28.67 ft
+  WARNING: Negative pressures at 90:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 90:00:00 hrs.
    
-    90:30:00: Balanced after 2 trials
+    90:15:00: Balanced after 1 trials
    
-    90:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 90:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 90:15:00 hrs.
    
-    91:00:00: Balanced after 2 trials
+    90:30:00: Balanced after 1 trials
    
-    91:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 90:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 90:30:00 hrs.
    
-    91:30:00: Balanced after 2 trials
+    90:45:00: Balanced after 1 trials
    
-    91:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 90:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 90:45:00 hrs.
    
-    92:00:00: Balanced after 3 trials
+    91:00:00: Balanced after 1 trials
    
-    92:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 91:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 91:00:00 hrs.
    
-    92:30:00: Balanced after 2 trials
+    91:15:00: Balanced after 1 trials
    
-    92:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 91:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 91:15:00 hrs.
+   
+    91:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 91:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 91:30:00 hrs.
+   
+    91:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 91:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 91:45:00 hrs.
+   
+    92:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 92:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 92:00:00 hrs.
+   
+    92:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 92:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 92:15:00 hrs.
+   
+    92:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 92:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 92:30:00 hrs.
+   
+    92:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 92:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 92:45:00 hrs.
    
     93:00:00: Balanced after 2 trials
    
-    93:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 93:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 93:00:00 hrs.
    
-    93:30:00: Balanced after 2 trials
+    93:15:00: Balanced after 1 trials
    
-    93:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 93:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 93:15:00 hrs.
    
-    94:00:00: Balanced after 3 trials
+    93:30:00: Balanced after 1 trials
    
-    94:08:23: Pump 335 changed by Tank 1 control
-    94:08:23: Pipe 330 changed by Tank 1 control
-    94:08:23: Balanced after 5 trials
-    94:08:23: Tank 3 is filling at 30.10 ft
-    94:08:23: Pipe 330 changed from open to closed
-    94:08:23: Pump 335 changed from closed to open
+  WARNING: Negative pressures at 93:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 93:30:00 hrs.
    
-    94:15:00: Balanced after 2 trials
+    93:45:00: Balanced after 1 trials
    
-    94:30:00: Balanced after 2 trials
+  WARNING: Negative pressures at 93:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 93:45:00 hrs.
    
-    94:45:00: Balanced after 2 trials
+    94:00:00: Balanced after 2 trials
    
-    95:00:00: Balanced after 3 trials
+  WARNING: Negative pressures at 94:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 94:00:00 hrs.
    
-    95:15:00: Balanced after 2 trials
+    94:15:00: Balanced after 1 trials
    
-    95:30:00: Balanced after 2 trials
+  WARNING: Negative pressures at 94:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 94:15:00 hrs.
    
-    95:45:00: Balanced after 2 trials
+    94:30:00: Balanced after 1 trials
    
-    96:00:00: Balanced after 4 trials
-    96:00:00: Tank 1 is filling at 15.88 ft
+  WARNING: Negative pressures at 94:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 94:30:00 hrs.
    
-    96:15:00: Balanced after 2 trials
+    94:45:00: Balanced after 1 trials
    
-    96:30:00: Balanced after 2 trials
+  WARNING: Negative pressures at 94:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 94:45:00 hrs.
    
-    96:45:00: Balanced after 2 trials
+    95:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 95:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 95:00:00 hrs.
+   
+    95:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 95:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 95:15:00 hrs.
+   
+    95:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 95:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 95:30:00 hrs.
+   
+    95:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 95:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 95:45:00 hrs.
+   
+    96:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 96:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 96:00:00 hrs.
+   
+    96:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 96:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 96:15:00 hrs.
+   
+    96:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 96:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 96:30:00 hrs.
+   
+    96:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 96:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 96:45:00 hrs.
    
     97:00:00: Pump 10 changed by timer control
-    97:00:00: Balanced after 7 trials
+    97:00:00: Balanced after 5 trials
     97:00:00: Reservoir Lake is emptying
     97:00:00: Pump 10 changed from closed to open
    
-    97:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 97:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 97:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 97:00:00 hrs.
    
-    97:30:00: Balanced after 2 trials
+    97:15:00: Balanced after 1 trials
    
-    97:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 97:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 97:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 97:15:00 hrs.
    
-    98:00:00: Balanced after 3 trials
-    98:00:00: Tank 2 is filling at 22.52 ft
+    97:30:00: Balanced after 1 trials
    
-    98:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 97:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 97:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 97:30:00 hrs.
    
-    98:30:00: Balanced after 2 trials
+    97:45:00: Balanced after 1 trials
    
-    98:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 97:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 97:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 97:45:00 hrs.
    
-    98:53:19: Pump 335 changed by Tank 1 control
-    98:53:19: Pipe 330 changed by Tank 1 control
-    98:53:19: Balanced after 4 trials
-    98:53:19: Tank 3 is emptying at 34.52 ft
-    98:53:19: Pipe 330 changed from closed to open
-    98:53:19: Pump 335 changed from open to closed
+    98:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 98:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 98:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 98:00:00 hrs.
+   
+    98:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 98:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 98:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 98:15:00 hrs.
+   
+    98:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 98:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 98:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 98:30:00 hrs.
+   
+    98:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 98:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 98:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 98:45:00 hrs.
    
     99:00:00: Balanced after 2 trials
    
-    99:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 99:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 99:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 99:00:00 hrs.
    
-    99:30:00: Balanced after 2 trials
+    99:15:00: Balanced after 1 trials
    
-    99:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 99:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 99:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 99:15:00 hrs.
    
-   100:00:00: Balanced after 3 trials
-   100:00:00: Tank 3 is filling at 34.39 ft
+    99:30:00: Balanced after 1 trials
    
-   100:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 99:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 99:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 99:30:00 hrs.
    
-   100:30:00: Balanced after 2 trials
+    99:45:00: Balanced after 1 trials
    
-   100:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 99:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 99:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 99:45:00 hrs.
    
-   101:00:00: Balanced after 3 trials
-   101:00:00: Tank 3 is emptying at 34.69 ft
+   100:00:00: Balanced after 2 trials
    
-   101:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 100:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 100:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 100:00:00 hrs.
    
-   101:30:00: Balanced after 2 trials
+   100:15:00: Balanced after 1 trials
    
-   101:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 100:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 100:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 100:15:00 hrs.
    
-   102:00:00: Balanced after 3 trials
-   102:00:00: Tank 3 is filling at 34.61 ft
+   100:30:00: Balanced after 1 trials
    
-   102:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 100:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 100:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 100:30:00 hrs.
    
-   102:30:00: Balanced after 2 trials
+   100:45:00: Balanced after 1 trials
    
-   102:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 100:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 100:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 100:45:00 hrs.
    
-   103:00:00: Balanced after 3 trials
+   101:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 101:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 101:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 101:00:00 hrs.
+   
+   101:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 101:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 101:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 101:15:00 hrs.
+   
+   101:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 101:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 101:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 101:30:00 hrs.
+   
+   101:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 101:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 101:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 101:45:00 hrs.
+   
+   102:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 102:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 102:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 102:00:00 hrs.
+   
+   102:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 102:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 102:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 102:15:00 hrs.
+   
+   102:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 102:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 102:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 102:30:00 hrs.
+   
+   102:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 102:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 102:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 102:45:00 hrs.
+   
+   103:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 103:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 103:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 103:00:00 hrs.
    
    103:15:00: Balanced after 1 trials
    
+  WARNING: Negative pressures at 103:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 103:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 103:15:00 hrs.
+   
    103:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 103:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 103:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 103:30:00 hrs.
    
    103:45:00: Balanced after 1 trials
    
+  WARNING: Negative pressures at 103:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 103:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 103:45:00 hrs.
+   
    104:00:00: Balanced after 2 trials
    
-   104:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 104:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 104:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 104:00:00 hrs.
    
-   104:20:24: Balanced after 4 trials
-   104:20:24: Tank 3 is closed at 35.50 ft
-   104:20:24: Pipe 20 changed from open to temporarily closed
+   104:15:00: Balanced after 1 trials
    
-   104:30:00: Balanced after 2 trials
+  WARNING: Negative pressures at 104:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 104:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 104:15:00 hrs.
    
-   104:45:00: Balanced after 2 trials
+   104:30:00: Balanced after 1 trials
    
-   105:00:00: Balanced after 5 trials
-   105:00:00: Tank 1 is emptying at 23.03 ft
-   105:00:00: Tank 3 is emptying at 35.50 ft
-   105:00:00: Pipe 20 changed from temporarily closed to open
+  WARNING: Negative pressures at 104:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 104:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 104:30:00 hrs.
    
-   105:15:00: Balanced after 2 trials
+   104:45:00: Balanced after 1 trials
    
-   105:30:00: Balanced after 2 trials
+  WARNING: Negative pressures at 104:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 104:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 104:45:00 hrs.
    
-   105:45:00: Balanced after 2 trials
+   105:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 105:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 105:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 105:00:00 hrs.
+   
+   105:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 105:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 105:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 105:15:00 hrs.
+   
+   105:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 105:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 105:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 105:30:00 hrs.
+   
+   105:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 105:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 105:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 105:45:00 hrs.
    
    106:00:00: Balanced after 2 trials
    
-   106:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 106:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 106:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 106:00:00 hrs.
    
-   106:30:00: Balanced after 2 trials
+   106:15:00: Balanced after 1 trials
    
-   106:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 106:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 106:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 106:15:00 hrs.
    
-   107:00:00: Balanced after 3 trials
-   107:00:00: Tank 2 is emptying at 28.78 ft
+   106:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 106:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 106:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 106:30:00 hrs.
+   
+   106:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 106:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 106:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 106:45:00 hrs.
+   
+   107:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 107:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 107:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 107:00:00 hrs.
    
    107:15:00: Balanced after 1 trials
    
+  WARNING: Negative pressures at 107:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 107:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 107:15:00 hrs.
+   
    107:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 107:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 107:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 107:30:00 hrs.
    
    107:45:00: Balanced after 1 trials
    
+  WARNING: Negative pressures at 107:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 107:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 107:45:00 hrs.
+   
    108:00:00: Balanced after 2 trials
-   108:00:00: Tank 2 is filling at 28.69 ft
    
-   108:15:00: Balanced after 2 trials
-   108:15:00: Tank 2 is emptying at 28.69 ft
+  WARNING: Negative pressures at 108:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 108:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 108:00:00 hrs.
    
-   108:30:00: Balanced after 2 trials
+   108:15:00: Balanced after 1 trials
    
-   108:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 108:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 108:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 108:15:00 hrs.
    
-   109:00:00: Balanced after 3 trials
-   109:00:00: Tank 1 is filling at 22.19 ft
-   109:00:00: Tank 2 is filling at 28.67 ft
+   108:30:00: Balanced after 1 trials
    
-   109:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 108:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 108:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 108:30:00 hrs.
    
-   109:30:00: Balanced after 2 trials
-   109:30:00: Tank 1 is emptying at 22.20 ft
+   108:45:00: Balanced after 1 trials
    
-   109:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 108:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 108:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 108:45:00 hrs.
    
-   110:00:00: Balanced after 3 trials
-   110:00:00: Tank 1 is filling at 22.18 ft
+   109:00:00: Balanced after 2 trials
    
-   110:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 109:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 109:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 109:00:00 hrs.
    
-   110:30:00: Balanced after 2 trials
+   109:15:00: Balanced after 1 trials
    
-   110:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 109:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 109:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 109:15:00 hrs.
+   
+   109:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 109:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 109:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 109:30:00 hrs.
+   
+   109:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 109:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 109:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 109:45:00 hrs.
+   
+   110:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 110:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 110:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 110:00:00 hrs.
+   
+   110:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 110:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 110:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 110:15:00 hrs.
+   
+   110:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 110:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 110:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 110:30:00 hrs.
+   
+   110:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 110:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 110:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 110:45:00 hrs.
    
    111:00:00: Pump 10 changed by timer control
-   111:00:00: Balanced after 5 trials
+   111:00:00: Balanced after 4 trials
    111:00:00: Reservoir Lake is closed
-   111:00:00: Tank 1 is emptying at 22.40 ft
-   111:00:00: Tank 2 is emptying at 29.17 ft
    111:00:00: Pump 10 changed from open to closed
    
-   111:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 111:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 111:00:00 hrs.
    
-   111:30:00: Balanced after 2 trials
+   111:15:00: Balanced after 1 trials
    
-   111:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 111:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 111:15:00 hrs.
    
-   112:00:00: Balanced after 3 trials
+   111:30:00: Balanced after 1 trials
    
-   112:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 111:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 111:30:00 hrs.
    
-   112:30:00: Balanced after 2 trials
+   111:45:00: Balanced after 1 trials
    
-   112:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 111:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 111:45:00 hrs.
+   
+   112:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 112:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 112:00:00 hrs.
+   
+   112:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 112:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 112:15:00 hrs.
+   
+   112:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 112:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 112:30:00 hrs.
+   
+   112:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 112:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 112:45:00 hrs.
    
    113:00:00: Balanced after 2 trials
    
-   113:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 113:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 113:00:00 hrs.
    
-   113:30:00: Balanced after 2 trials
+   113:15:00: Balanced after 1 trials
    
-   113:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 113:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 113:15:00 hrs.
+   
+   113:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 113:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 113:30:00 hrs.
+   
+   113:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 113:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 113:45:00 hrs.
    
    114:00:00: Balanced after 2 trials
-   114:00:00: Tank 2 is filling at 28.66 ft
    
-   114:15:00: Balanced after 2 trials
-   114:15:00: Tank 2 is emptying at 28.67 ft
+  WARNING: Negative pressures at 114:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 114:00:00 hrs.
    
-   114:30:00: Balanced after 2 trials
+   114:15:00: Balanced after 1 trials
    
-   114:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 114:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 114:15:00 hrs.
    
-   115:00:00: Balanced after 2 trials
+   114:30:00: Balanced after 1 trials
    
-   115:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 114:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 114:30:00 hrs.
    
-   115:30:00: Balanced after 2 trials
+   114:45:00: Balanced after 1 trials
    
-   115:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 114:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 114:45:00 hrs.
    
-   116:00:00: Balanced after 3 trials
+   115:00:00: Balanced after 1 trials
    
-   116:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 115:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 115:00:00 hrs.
    
-   116:30:00: Balanced after 2 trials
+   115:15:00: Balanced after 1 trials
    
-   116:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 115:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 115:15:00 hrs.
+   
+   115:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 115:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 115:30:00 hrs.
+   
+   115:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 115:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 115:45:00 hrs.
+   
+   116:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 116:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 116:00:00 hrs.
+   
+   116:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 116:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 116:15:00 hrs.
+   
+   116:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 116:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 116:30:00 hrs.
+   
+   116:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 116:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 116:45:00 hrs.
    
    117:00:00: Balanced after 2 trials
    
-   117:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 117:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 117:00:00 hrs.
    
-   117:30:00: Balanced after 2 trials
+   117:15:00: Balanced after 1 trials
    
-   117:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 117:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 117:15:00 hrs.
    
-   118:00:00: Balanced after 3 trials
+   117:30:00: Balanced after 1 trials
    
-   118:08:22: Pump 335 changed by Tank 1 control
-   118:08:22: Pipe 330 changed by Tank 1 control
-   118:08:22: Balanced after 5 trials
-   118:08:22: Tank 3 is filling at 30.10 ft
-   118:08:22: Pipe 330 changed from open to closed
-   118:08:22: Pump 335 changed from closed to open
+  WARNING: Negative pressures at 117:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 117:30:00 hrs.
    
-   118:15:00: Balanced after 2 trials
+   117:45:00: Balanced after 1 trials
    
-   118:30:00: Balanced after 2 trials
+  WARNING: Negative pressures at 117:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 117:45:00 hrs.
    
-   118:45:00: Balanced after 2 trials
+   118:00:00: Balanced after 2 trials
    
-   119:00:00: Balanced after 3 trials
+  WARNING: Negative pressures at 118:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 118:00:00 hrs.
    
-   119:15:00: Balanced after 2 trials
+   118:15:00: Balanced after 1 trials
    
-   119:30:00: Balanced after 2 trials
+  WARNING: Negative pressures at 118:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 118:15:00 hrs.
    
-   119:45:00: Balanced after 2 trials
+   118:30:00: Balanced after 1 trials
    
-   120:00:00: Balanced after 4 trials
-   120:00:00: Tank 1 is filling at 15.88 ft
+  WARNING: Negative pressures at 118:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 118:30:00 hrs.
    
-   120:15:00: Balanced after 2 trials
+   118:45:00: Balanced after 1 trials
    
-   120:30:00: Balanced after 2 trials
+  WARNING: Negative pressures at 118:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 118:45:00 hrs.
    
-   120:45:00: Balanced after 2 trials
+   119:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 119:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 119:00:00 hrs.
+   
+   119:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 119:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 119:15:00 hrs.
+   
+   119:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 119:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 119:30:00 hrs.
+   
+   119:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 119:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 119:45:00 hrs.
+   
+   120:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 120:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 120:00:00 hrs.
+   
+   120:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 120:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 120:15:00 hrs.
+   
+   120:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 120:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 120:30:00 hrs.
+   
+   120:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 120:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 120:45:00 hrs.
    
    121:00:00: Pump 10 changed by timer control
-   121:00:00: Balanced after 7 trials
+   121:00:00: Balanced after 5 trials
    121:00:00: Reservoir Lake is emptying
    121:00:00: Pump 10 changed from closed to open
    
-   121:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 121:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 121:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 121:00:00 hrs.
    
-   121:30:00: Balanced after 2 trials
+   121:15:00: Balanced after 1 trials
    
-   121:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 121:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 121:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 121:15:00 hrs.
    
-   122:00:00: Balanced after 3 trials
-   122:00:00: Tank 2 is filling at 22.52 ft
+   121:30:00: Balanced after 1 trials
    
-   122:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 121:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 121:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 121:30:00 hrs.
    
-   122:30:00: Balanced after 2 trials
+   121:45:00: Balanced after 1 trials
    
-   122:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 121:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 121:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 121:45:00 hrs.
    
-   122:53:19: Pump 335 changed by Tank 1 control
-   122:53:19: Pipe 330 changed by Tank 1 control
-   122:53:19: Balanced after 4 trials
-   122:53:19: Tank 3 is emptying at 34.52 ft
-   122:53:19: Pipe 330 changed from closed to open
-   122:53:19: Pump 335 changed from open to closed
+   122:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 122:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 122:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 122:00:00 hrs.
+   
+   122:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 122:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 122:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 122:15:00 hrs.
+   
+   122:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 122:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 122:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 122:30:00 hrs.
+   
+   122:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 122:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 122:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 122:45:00 hrs.
    
    123:00:00: Balanced after 2 trials
    
-   123:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 123:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 123:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 123:00:00 hrs.
    
-   123:30:00: Balanced after 2 trials
+   123:15:00: Balanced after 1 trials
    
-   123:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 123:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 123:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 123:15:00 hrs.
    
-   124:00:00: Balanced after 3 trials
-   124:00:00: Tank 3 is filling at 34.39 ft
+   123:30:00: Balanced after 1 trials
    
-   124:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 123:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 123:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 123:30:00 hrs.
    
-   124:30:00: Balanced after 2 trials
+   123:45:00: Balanced after 1 trials
    
-   124:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 123:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 123:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 123:45:00 hrs.
    
-   125:00:00: Balanced after 3 trials
-   125:00:00: Tank 3 is emptying at 34.69 ft
+   124:00:00: Balanced after 2 trials
    
-   125:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 124:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 124:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 124:00:00 hrs.
    
-   125:30:00: Balanced after 2 trials
+   124:15:00: Balanced after 1 trials
    
-   125:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 124:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 124:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 124:15:00 hrs.
    
-   126:00:00: Balanced after 3 trials
-   126:00:00: Tank 3 is filling at 34.61 ft
+   124:30:00: Balanced after 1 trials
    
-   126:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 124:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 124:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 124:30:00 hrs.
    
-   126:30:00: Balanced after 2 trials
+   124:45:00: Balanced after 1 trials
    
-   126:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 124:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 124:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 124:45:00 hrs.
    
-   127:00:00: Balanced after 3 trials
+   125:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 125:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 125:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 125:00:00 hrs.
+   
+   125:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 125:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 125:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 125:15:00 hrs.
+   
+   125:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 125:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 125:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 125:30:00 hrs.
+   
+   125:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 125:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 125:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 125:45:00 hrs.
+   
+   126:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 126:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 126:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 126:00:00 hrs.
+   
+   126:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 126:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 126:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 126:15:00 hrs.
+   
+   126:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 126:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 126:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 126:30:00 hrs.
+   
+   126:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 126:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 126:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 126:45:00 hrs.
+   
+   127:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 127:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 127:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 127:00:00 hrs.
    
    127:15:00: Balanced after 1 trials
    
+  WARNING: Negative pressures at 127:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 127:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 127:15:00 hrs.
+   
    127:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 127:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 127:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 127:30:00 hrs.
    
    127:45:00: Balanced after 1 trials
    
+  WARNING: Negative pressures at 127:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 127:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 127:45:00 hrs.
+   
    128:00:00: Balanced after 2 trials
    
-   128:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 128:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 128:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 128:00:00 hrs.
    
-   128:20:24: Balanced after 4 trials
-   128:20:24: Tank 3 is closed at 35.50 ft
-   128:20:24: Pipe 20 changed from open to temporarily closed
+   128:15:00: Balanced after 1 trials
    
-   128:30:00: Balanced after 2 trials
+  WARNING: Negative pressures at 128:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 128:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 128:15:00 hrs.
    
-   128:45:00: Balanced after 2 trials
+   128:30:00: Balanced after 1 trials
    
-   129:00:00: Balanced after 5 trials
-   129:00:00: Tank 1 is emptying at 23.03 ft
-   129:00:00: Tank 3 is emptying at 35.50 ft
-   129:00:00: Pipe 20 changed from temporarily closed to open
+  WARNING: Negative pressures at 128:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 128:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 128:30:00 hrs.
    
-   129:15:00: Balanced after 2 trials
+   128:45:00: Balanced after 1 trials
    
-   129:30:00: Balanced after 2 trials
+  WARNING: Negative pressures at 128:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 128:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 128:45:00 hrs.
    
-   129:45:00: Balanced after 2 trials
+   129:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 129:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 129:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 129:00:00 hrs.
+   
+   129:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 129:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 129:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 129:15:00 hrs.
+   
+   129:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 129:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 129:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 129:30:00 hrs.
+   
+   129:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 129:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 129:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 129:45:00 hrs.
    
    130:00:00: Balanced after 2 trials
    
-   130:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 130:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 130:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 130:00:00 hrs.
    
-   130:30:00: Balanced after 2 trials
+   130:15:00: Balanced after 1 trials
    
-   130:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 130:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 130:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 130:15:00 hrs.
    
-   131:00:00: Balanced after 3 trials
-   131:00:00: Tank 2 is emptying at 28.78 ft
+   130:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 130:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 130:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 130:30:00 hrs.
+   
+   130:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 130:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 130:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 130:45:00 hrs.
+   
+   131:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 131:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 131:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 131:00:00 hrs.
    
    131:15:00: Balanced after 1 trials
    
+  WARNING: Negative pressures at 131:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 131:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 131:15:00 hrs.
+   
    131:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 131:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 131:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 131:30:00 hrs.
    
    131:45:00: Balanced after 1 trials
    
+  WARNING: Negative pressures at 131:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 131:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 131:45:00 hrs.
+   
    132:00:00: Balanced after 2 trials
-   132:00:00: Tank 2 is filling at 28.69 ft
    
-   132:15:00: Balanced after 2 trials
-   132:15:00: Tank 2 is emptying at 28.69 ft
+  WARNING: Negative pressures at 132:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 132:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 132:00:00 hrs.
    
-   132:30:00: Balanced after 2 trials
+   132:15:00: Balanced after 1 trials
    
-   132:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 132:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 132:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 132:15:00 hrs.
    
-   133:00:00: Balanced after 3 trials
-   133:00:00: Tank 1 is filling at 22.19 ft
-   133:00:00: Tank 2 is filling at 28.67 ft
+   132:30:00: Balanced after 1 trials
    
-   133:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 132:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 132:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 132:30:00 hrs.
    
-   133:30:00: Balanced after 2 trials
-   133:30:00: Tank 1 is emptying at 22.20 ft
+   132:45:00: Balanced after 1 trials
    
-   133:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 132:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 132:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 132:45:00 hrs.
    
-   134:00:00: Balanced after 3 trials
-   134:00:00: Tank 1 is filling at 22.18 ft
+   133:00:00: Balanced after 2 trials
    
-   134:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 133:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 133:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 133:00:00 hrs.
    
-   134:30:00: Balanced after 2 trials
+   133:15:00: Balanced after 1 trials
    
-   134:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 133:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 133:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 133:15:00 hrs.
+   
+   133:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 133:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 133:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 133:30:00 hrs.
+   
+   133:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 133:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 133:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 133:45:00 hrs.
+   
+   134:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 134:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 134:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 134:00:00 hrs.
+   
+   134:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 134:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 134:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 134:15:00 hrs.
+   
+   134:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 134:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 134:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 134:30:00 hrs.
+   
+   134:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 134:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 134:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 134:45:00 hrs.
    
    135:00:00: Pump 10 changed by timer control
-   135:00:00: Balanced after 5 trials
+   135:00:00: Balanced after 4 trials
    135:00:00: Reservoir Lake is closed
-   135:00:00: Tank 1 is emptying at 22.40 ft
-   135:00:00: Tank 2 is emptying at 29.17 ft
    135:00:00: Pump 10 changed from open to closed
    
-   135:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 135:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 135:00:00 hrs.
    
-   135:30:00: Balanced after 2 trials
+   135:15:00: Balanced after 1 trials
    
-   135:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 135:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 135:15:00 hrs.
    
-   136:00:00: Balanced after 3 trials
+   135:30:00: Balanced after 1 trials
    
-   136:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 135:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 135:30:00 hrs.
    
-   136:30:00: Balanced after 2 trials
+   135:45:00: Balanced after 1 trials
    
-   136:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 135:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 135:45:00 hrs.
+   
+   136:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 136:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 136:00:00 hrs.
+   
+   136:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 136:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 136:15:00 hrs.
+   
+   136:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 136:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 136:30:00 hrs.
+   
+   136:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 136:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 136:45:00 hrs.
    
    137:00:00: Balanced after 2 trials
    
-   137:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 137:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 137:00:00 hrs.
    
-   137:30:00: Balanced after 2 trials
+   137:15:00: Balanced after 1 trials
    
-   137:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 137:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 137:15:00 hrs.
+   
+   137:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 137:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 137:30:00 hrs.
+   
+   137:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 137:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 137:45:00 hrs.
    
    138:00:00: Balanced after 2 trials
-   138:00:00: Tank 2 is filling at 28.66 ft
    
-   138:15:00: Balanced after 2 trials
-   138:15:00: Tank 2 is emptying at 28.67 ft
+  WARNING: Negative pressures at 138:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 138:00:00 hrs.
    
-   138:30:00: Balanced after 2 trials
+   138:15:00: Balanced after 1 trials
    
-   138:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 138:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 138:15:00 hrs.
    
-   139:00:00: Balanced after 2 trials
+   138:30:00: Balanced after 1 trials
    
-   139:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 138:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 138:30:00 hrs.
    
-   139:30:00: Balanced after 2 trials
+   138:45:00: Balanced after 1 trials
    
-   139:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 138:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 138:45:00 hrs.
    
-   140:00:00: Balanced after 3 trials
+   139:00:00: Balanced after 1 trials
    
-   140:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 139:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 139:00:00 hrs.
    
-   140:30:00: Balanced after 2 trials
+   139:15:00: Balanced after 1 trials
    
-   140:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 139:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 139:15:00 hrs.
+   
+   139:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 139:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 139:30:00 hrs.
+   
+   139:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 139:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 139:45:00 hrs.
+   
+   140:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 140:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 140:00:00 hrs.
+   
+   140:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 140:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 140:15:00 hrs.
+   
+   140:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 140:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 140:30:00 hrs.
+   
+   140:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 140:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 140:45:00 hrs.
    
    141:00:00: Balanced after 2 trials
    
-   141:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 141:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 141:00:00 hrs.
    
-   141:30:00: Balanced after 2 trials
+   141:15:00: Balanced after 1 trials
    
-   141:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 141:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 141:15:00 hrs.
    
-   142:00:00: Balanced after 3 trials
+   141:30:00: Balanced after 1 trials
    
-   142:08:22: Pump 335 changed by Tank 1 control
-   142:08:22: Pipe 330 changed by Tank 1 control
-   142:08:22: Balanced after 5 trials
-   142:08:22: Tank 3 is filling at 30.10 ft
-   142:08:22: Pipe 330 changed from open to closed
-   142:08:22: Pump 335 changed from closed to open
+  WARNING: Negative pressures at 141:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 141:30:00 hrs.
    
-   142:15:00: Balanced after 2 trials
+   141:45:00: Balanced after 1 trials
    
-   142:30:00: Balanced after 2 trials
+  WARNING: Negative pressures at 141:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 141:45:00 hrs.
    
-   142:45:00: Balanced after 2 trials
+   142:00:00: Balanced after 2 trials
    
-   143:00:00: Balanced after 3 trials
+  WARNING: Negative pressures at 142:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 142:00:00 hrs.
    
-   143:15:00: Balanced after 2 trials
+   142:15:00: Balanced after 1 trials
    
-   143:30:00: Balanced after 2 trials
+  WARNING: Negative pressures at 142:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 142:15:00 hrs.
    
-   143:45:00: Balanced after 2 trials
+   142:30:00: Balanced after 1 trials
    
-   144:00:00: Balanced after 4 trials
-   144:00:00: Tank 1 is filling at 15.88 ft
+  WARNING: Negative pressures at 142:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 142:30:00 hrs.
    
-   144:15:00: Balanced after 2 trials
+   142:45:00: Balanced after 1 trials
    
-   144:30:00: Balanced after 2 trials
+  WARNING: Negative pressures at 142:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 142:45:00 hrs.
    
-   144:45:00: Balanced after 2 trials
+   143:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 143:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 143:00:00 hrs.
+   
+   143:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 143:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 143:15:00 hrs.
+   
+   143:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 143:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 143:30:00 hrs.
+   
+   143:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 143:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 143:45:00 hrs.
+   
+   144:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 144:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 144:00:00 hrs.
+   
+   144:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 144:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 144:15:00 hrs.
+   
+   144:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 144:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 144:30:00 hrs.
+   
+   144:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 144:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 144:45:00 hrs.
    
    145:00:00: Pump 10 changed by timer control
-   145:00:00: Balanced after 7 trials
+   145:00:00: Balanced after 5 trials
    145:00:00: Reservoir Lake is emptying
    145:00:00: Pump 10 changed from closed to open
    
-   145:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 145:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 145:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 145:00:00 hrs.
    
-   145:30:00: Balanced after 2 trials
+   145:15:00: Balanced after 1 trials
    
-   145:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 145:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 145:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 145:15:00 hrs.
    
-   146:00:00: Balanced after 3 trials
-   146:00:00: Tank 2 is filling at 22.52 ft
+   145:30:00: Balanced after 1 trials
    
-   146:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 145:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 145:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 145:30:00 hrs.
    
-   146:30:00: Balanced after 2 trials
+   145:45:00: Balanced after 1 trials
    
-   146:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 145:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 145:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 145:45:00 hrs.
    
-   146:53:19: Pump 335 changed by Tank 1 control
-   146:53:19: Pipe 330 changed by Tank 1 control
-   146:53:19: Balanced after 4 trials
-   146:53:19: Tank 3 is emptying at 34.52 ft
-   146:53:19: Pipe 330 changed from closed to open
-   146:53:19: Pump 335 changed from open to closed
+   146:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 146:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 146:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 146:00:00 hrs.
+   
+   146:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 146:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 146:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 146:15:00 hrs.
+   
+   146:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 146:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 146:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 146:30:00 hrs.
+   
+   146:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 146:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 146:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 146:45:00 hrs.
    
    147:00:00: Balanced after 2 trials
    
-   147:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 147:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 147:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 147:00:00 hrs.
    
-   147:30:00: Balanced after 2 trials
+   147:15:00: Balanced after 1 trials
    
-   147:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 147:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 147:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 147:15:00 hrs.
    
-   148:00:00: Balanced after 3 trials
-   148:00:00: Tank 3 is filling at 34.39 ft
+   147:30:00: Balanced after 1 trials
    
-   148:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 147:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 147:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 147:30:00 hrs.
    
-   148:30:00: Balanced after 2 trials
+   147:45:00: Balanced after 1 trials
    
-   148:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 147:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 147:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 147:45:00 hrs.
    
-   149:00:00: Balanced after 3 trials
-   149:00:00: Tank 3 is emptying at 34.69 ft
+   148:00:00: Balanced after 2 trials
    
-   149:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 148:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 148:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 148:00:00 hrs.
    
-   149:30:00: Balanced after 2 trials
+   148:15:00: Balanced after 1 trials
    
-   149:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 148:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 148:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 148:15:00 hrs.
    
-   150:00:00: Balanced after 3 trials
-   150:00:00: Tank 3 is filling at 34.61 ft
+   148:30:00: Balanced after 1 trials
    
-   150:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 148:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 148:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 148:30:00 hrs.
    
-   150:30:00: Balanced after 2 trials
+   148:45:00: Balanced after 1 trials
    
-   150:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 148:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 148:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 148:45:00 hrs.
    
-   151:00:00: Balanced after 3 trials
+   149:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 149:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 149:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 149:00:00 hrs.
+   
+   149:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 149:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 149:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 149:15:00 hrs.
+   
+   149:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 149:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 149:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 149:30:00 hrs.
+   
+   149:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 149:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 149:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 149:45:00 hrs.
+   
+   150:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 150:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 150:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 150:00:00 hrs.
+   
+   150:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 150:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 150:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 150:15:00 hrs.
+   
+   150:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 150:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 150:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 150:30:00 hrs.
+   
+   150:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 150:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 150:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 150:45:00 hrs.
+   
+   151:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 151:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 151:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 151:00:00 hrs.
    
    151:15:00: Balanced after 1 trials
    
+  WARNING: Negative pressures at 151:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 151:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 151:15:00 hrs.
+   
    151:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 151:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 151:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 151:30:00 hrs.
    
    151:45:00: Balanced after 1 trials
    
+  WARNING: Negative pressures at 151:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 151:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 151:45:00 hrs.
+   
    152:00:00: Balanced after 2 trials
    
-   152:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 152:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 152:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 152:00:00 hrs.
    
-   152:20:24: Balanced after 4 trials
-   152:20:24: Tank 3 is closed at 35.50 ft
-   152:20:24: Pipe 20 changed from open to temporarily closed
+   152:15:00: Balanced after 1 trials
    
-   152:30:00: Balanced after 2 trials
+  WARNING: Negative pressures at 152:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 152:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 152:15:00 hrs.
    
-   152:45:00: Balanced after 2 trials
+   152:30:00: Balanced after 1 trials
    
-   153:00:00: Balanced after 5 trials
-   153:00:00: Tank 1 is emptying at 23.03 ft
-   153:00:00: Tank 3 is emptying at 35.50 ft
-   153:00:00: Pipe 20 changed from temporarily closed to open
+  WARNING: Negative pressures at 152:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 152:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 152:30:00 hrs.
    
-   153:15:00: Balanced after 2 trials
+   152:45:00: Balanced after 1 trials
    
-   153:30:00: Balanced after 2 trials
+  WARNING: Negative pressures at 152:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 152:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 152:45:00 hrs.
    
-   153:45:00: Balanced after 2 trials
+   153:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 153:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 153:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 153:00:00 hrs.
+   
+   153:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 153:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 153:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 153:15:00 hrs.
+   
+   153:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 153:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 153:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 153:30:00 hrs.
+   
+   153:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 153:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 153:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 153:45:00 hrs.
    
    154:00:00: Balanced after 2 trials
    
-   154:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 154:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 154:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 154:00:00 hrs.
    
-   154:30:00: Balanced after 2 trials
+   154:15:00: Balanced after 1 trials
    
-   154:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 154:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 154:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 154:15:00 hrs.
    
-   155:00:00: Balanced after 3 trials
-   155:00:00: Tank 2 is emptying at 28.78 ft
+   154:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 154:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 154:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 154:30:00 hrs.
+   
+   154:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 154:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 154:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 154:45:00 hrs.
+   
+   155:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 155:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 155:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 155:00:00 hrs.
    
    155:15:00: Balanced after 1 trials
    
+  WARNING: Negative pressures at 155:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 155:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 155:15:00 hrs.
+   
    155:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 155:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 155:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 155:30:00 hrs.
    
    155:45:00: Balanced after 1 trials
    
+  WARNING: Negative pressures at 155:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 155:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 155:45:00 hrs.
+   
    156:00:00: Balanced after 2 trials
-   156:00:00: Tank 2 is filling at 28.69 ft
    
-   156:15:00: Balanced after 2 trials
-   156:15:00: Tank 2 is emptying at 28.69 ft
+  WARNING: Negative pressures at 156:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 156:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 156:00:00 hrs.
    
-   156:30:00: Balanced after 2 trials
+   156:15:00: Balanced after 1 trials
    
-   156:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 156:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 156:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 156:15:00 hrs.
    
-   157:00:00: Balanced after 3 trials
-   157:00:00: Tank 1 is filling at 22.19 ft
-   157:00:00: Tank 2 is filling at 28.67 ft
+   156:30:00: Balanced after 1 trials
    
-   157:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 156:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 156:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 156:30:00 hrs.
    
-   157:30:00: Balanced after 2 trials
-   157:30:00: Tank 1 is emptying at 22.20 ft
+   156:45:00: Balanced after 1 trials
    
-   157:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 156:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 156:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 156:45:00 hrs.
    
-   158:00:00: Balanced after 3 trials
-   158:00:00: Tank 1 is filling at 22.18 ft
+   157:00:00: Balanced after 2 trials
    
-   158:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 157:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 157:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 157:00:00 hrs.
    
-   158:30:00: Balanced after 2 trials
+   157:15:00: Balanced after 1 trials
    
-   158:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 157:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 157:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 157:15:00 hrs.
+   
+   157:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 157:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 157:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 157:30:00 hrs.
+   
+   157:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 157:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 157:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 157:45:00 hrs.
+   
+   158:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 158:00:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 158:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 158:00:00 hrs.
+   
+   158:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 158:15:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 158:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 158:15:00 hrs.
+   
+   158:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 158:30:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 158:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 158:30:00 hrs.
+   
+   158:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 158:45:00 hrs.
+  WARNING: Pump 10 open but exceeds maximum flow at 158:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 158:45:00 hrs.
    
    159:00:00: Pump 10 changed by timer control
-   159:00:00: Balanced after 5 trials
+   159:00:00: Balanced after 4 trials
    159:00:00: Reservoir Lake is closed
-   159:00:00: Tank 1 is emptying at 22.40 ft
-   159:00:00: Tank 2 is emptying at 29.17 ft
    159:00:00: Pump 10 changed from open to closed
    
-   159:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 159:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 159:00:00 hrs.
    
-   159:30:00: Balanced after 2 trials
+   159:15:00: Balanced after 1 trials
    
-   159:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 159:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 159:15:00 hrs.
    
-   160:00:00: Balanced after 3 trials
+   159:30:00: Balanced after 1 trials
    
-   160:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 159:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 159:30:00 hrs.
    
-   160:30:00: Balanced after 2 trials
+   159:45:00: Balanced after 1 trials
    
-   160:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 159:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 159:45:00 hrs.
+   
+   160:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 160:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 160:00:00 hrs.
+   
+   160:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 160:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 160:15:00 hrs.
+   
+   160:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 160:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 160:30:00 hrs.
+   
+   160:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 160:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 160:45:00 hrs.
    
    161:00:00: Balanced after 2 trials
    
-   161:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 161:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 161:00:00 hrs.
    
-   161:30:00: Balanced after 2 trials
+   161:15:00: Balanced after 1 trials
    
-   161:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 161:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 161:15:00 hrs.
+   
+   161:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 161:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 161:30:00 hrs.
+   
+   161:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 161:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 161:45:00 hrs.
    
    162:00:00: Balanced after 2 trials
-   162:00:00: Tank 2 is filling at 28.66 ft
    
-   162:15:00: Balanced after 2 trials
-   162:15:00: Tank 2 is emptying at 28.67 ft
+  WARNING: Negative pressures at 162:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 162:00:00 hrs.
    
-   162:30:00: Balanced after 2 trials
+   162:15:00: Balanced after 1 trials
    
-   162:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 162:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 162:15:00 hrs.
    
-   163:00:00: Balanced after 2 trials
+   162:30:00: Balanced after 1 trials
    
-   163:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 162:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 162:30:00 hrs.
    
-   163:30:00: Balanced after 2 trials
+   162:45:00: Balanced after 1 trials
    
-   163:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 162:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 162:45:00 hrs.
    
-   164:00:00: Balanced after 3 trials
+   163:00:00: Balanced after 1 trials
    
-   164:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 163:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 163:00:00 hrs.
    
-   164:30:00: Balanced after 2 trials
+   163:15:00: Balanced after 1 trials
    
-   164:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 163:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 163:15:00 hrs.
+   
+   163:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 163:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 163:30:00 hrs.
+   
+   163:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 163:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 163:45:00 hrs.
+   
+   164:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 164:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 164:00:00 hrs.
+   
+   164:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 164:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 164:15:00 hrs.
+   
+   164:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 164:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 164:30:00 hrs.
+   
+   164:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 164:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 164:45:00 hrs.
    
    165:00:00: Balanced after 2 trials
    
-   165:15:00: Balanced after 2 trials
+  WARNING: Negative pressures at 165:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 165:00:00 hrs.
    
-   165:30:00: Balanced after 2 trials
+   165:15:00: Balanced after 1 trials
    
-   165:45:00: Balanced after 2 trials
+  WARNING: Negative pressures at 165:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 165:15:00 hrs.
    
-   166:00:00: Balanced after 3 trials
+   165:30:00: Balanced after 1 trials
    
-   166:08:22: Pump 335 changed by Tank 1 control
-   166:08:22: Pipe 330 changed by Tank 1 control
-   166:08:22: Balanced after 5 trials
-   166:08:22: Tank 3 is filling at 30.10 ft
-   166:08:22: Pipe 330 changed from open to closed
-   166:08:22: Pump 335 changed from closed to open
+  WARNING: Negative pressures at 165:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 165:30:00 hrs.
    
-   166:15:00: Balanced after 2 trials
+   165:45:00: Balanced after 1 trials
    
-   166:30:00: Balanced after 2 trials
+  WARNING: Negative pressures at 165:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 165:45:00 hrs.
    
-   166:45:00: Balanced after 2 trials
+   166:00:00: Balanced after 2 trials
    
-   167:00:00: Balanced after 3 trials
+  WARNING: Negative pressures at 166:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 166:00:00 hrs.
    
-   167:15:00: Balanced after 2 trials
+   166:15:00: Balanced after 1 trials
    
-   167:30:00: Balanced after 2 trials
+  WARNING: Negative pressures at 166:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 166:15:00 hrs.
    
-   167:45:00: Balanced after 2 trials
+   166:30:00: Balanced after 1 trials
    
-   168:00:00: Balanced after 4 trials
-   168:00:00: Tank 1 is filling at 15.88 ft
+  WARNING: Negative pressures at 166:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 166:30:00 hrs.
+   
+   166:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 166:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 166:45:00 hrs.
+   
+   167:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 167:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 167:00:00 hrs.
+   
+   167:15:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 167:15:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 167:15:00 hrs.
+   
+   167:30:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 167:30:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 167:30:00 hrs.
+   
+   167:45:00: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 167:45:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 167:45:00 hrs.
+   
+   168:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 168:00:00 hrs.
+  WARNING: Pump 335 open but exceeds maximum flow at 168:00:00 hrs.
    
   Water Quality Mass Balance (mg)
   ================================
@@ -1672,4 +3847,4 @@
   Mass Ratio:         1.00000
   ================================
 
-  Analysis ended Sat Jan 14 21:20:21 2023
+  Analysis ended Sat Jan 14 21:29:20 2023
